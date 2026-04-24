@@ -10,10 +10,10 @@ https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 http://181.13.252.102:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/telefe@2x.png" group-title="TV", Telefe
-http://181.13.252.102:8000/play/a06c/index.m3u8
+http://200.112.174.230/mtcast_telefehd/mpegts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/L2psJlN.png" group-title="TV", El Trece 
-http://181.13.252.102:8000/play/a0bg/index.m3u8
+http://200.112.174.230/mtcast_eltrecehd/mpegts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/5miXpvS.png" group-title="TV", Todo Noticias 
 http://200.112.174.230/mtcast_tnhd/mpegts
