@@ -54,10 +54,10 @@ https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ArE9DFC.png" group-title="TV", Canal de la música 
 https://g4.mc-hor.transport.edge-access.net:443/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6bFkcbsklRXLeB2ajrnCl8/c5ccbf53c3ab168c6448fb76265d5778/canal-quiero-musica.png?fm=webp&q=80" group-title="TV", Quiero música 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XdRYesx.png" group-title="TV", Quiero música 
 http://181.13.252.102:8000/play/a02n/index.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="TV", Radio Mega
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t4KaKJL.png" group-title="TV", Radio Mega
 https://stream.arcast.com.ar/la90fm/la90fm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https" group-title="TV", Radio La 100
