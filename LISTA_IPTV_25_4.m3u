@@ -1,0 +1,181 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4bjYinK.png" group-title="TV", América Tv 
+https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png" group-title="TV", Tv Pública 
+https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" group-title="TV", Canal 9 
+http://181.13.252.102:8000/play/a04h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/telefe@2x.png" group-title="TV", Telefe
+http://181.13.252.102:8000/play/a06c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/L2psJlN.png" group-title="TV", El Trece 
+http://181.13.252.102:8000/play/a0bg/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5miXpvS.png" group-title="TV", Todo Noticias 
+http://200.112.174.230/mtcast_tnhd/mpegts
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/lanacionmas.png" group-title="TV", La Nación +
+http://200.112.174.230/mtcast_lnhd/mpegts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="TV", C5N
+http://200.112.174.230/mtcast_c5nhd/mpegts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="TV", A24 
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/canal%2026%20128.png" group-title="TV", 26Tv 
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8GfFTZA.png" group-title="TV", Crónica Tv 
+https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2025/11/Arg-12.jpg" group-title="TV", Ar|12 
+http://190.7.19.197:232/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/telemax@2x.png" group-title="TV", Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7U2uKzY.png" group-title="TV", Canal de la Ciudad
+https://g5.vxral-hor.transport.edge-access.net:443/a06/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/Latinatv%20128.png" group-title="TV", Latina Tv 
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/musictop@2x.png" group-title="TV",  Musictop 
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/tierramia@2x.png" group-title="TV", Tierramia 
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ArE9DFC.png" group-title="TV", Canal de la música 
+https://g4.mc-hor.transport.edge-access.net:443/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6bFkcbsklRXLeB2ajrnCl8/c5ccbf53c3ab168c6448fb76265d5778/canal-quiero-musica.png?fm=webp&q=80" group-title="TV", Quiero música 
+http://181.13.252.102:8000/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https" group-title="TV", Radio Mega
+https://stream.arcast.com.ar/la90fm/la90fm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https" group-title="TV", Radio La 100
+https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
+
+#EXTINF:-1 tvg-logo="https" group-title="TV", Caras Tv
+https://unlimited1-saopaulo.dps.live/carastv/carastv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KB-kNnnH32k/YQRd7g0AzLI/AAAAAAAALGA/4K2xz9ytbpEuyKMBdv2UVi6TrpLif8PKgCLcBGAsYHQ/s1600/CINEAR.jpg" group-title="TV", Cinear 
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-19.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/encuentro@2x.png" group-title="TV", Encuentro 
+http://181.13.252.102:8000/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="TV", Volver
+http://200.112.174.230/mtcast_volverhd/mpegts
+
+#EXTINF:-1 tvg-logo="https" group-title="TV", Paka Paka
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-36_400.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/gallery/category_2/large.gallery_5617_2_37194.png.eb2c238cc001afa3aea1fb4f9dbee8f9.png" group-title="TV", El Garage Tv 
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/deportv%20128.png" group-title="TV",DeporTv 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="TV", TyC Sports
+http://200.112.174.230/mtcast_tychd/mpegts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="TV", TyC Sports Op.2
+http://kstv.us:8080/live/N427DpynGE/7049166651/46748.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="TV", TyC Sports Op.3
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/8631.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="TV", TNT Sports 
+http://200.112.174.230/mtcast_tntsportshd/mpegts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="TV", TNT Sports Op.2
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/462.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="TV", ESPN Premium
+http://200.112.174.230/mtcast_espnpremiumhd/mpegts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="TV", ESPN Premium Op.2
+http://kstv.us:8080/live/N427DpynGE/7049166651/46727.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z97x72L.jpeg" group-title="ACCIÓN",Avatar 3: Fuego y cenizas (2025)
+https://1a-1791.com/video/fww1/99/s8/2/-/s/u/h/-suhA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3159732736-3159853390
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rssIz96.jpeg" group-title="ACCIÓN",Máquina de guerra (2026)
+https://dl.dropbox.com/scl/fi/22ipr8f6f3c67iaazp9y6/f-sica.mp4?rlkey=e3evan7tm1o5akqfc651nw9ai&st=s01a5dub&dl=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fUunkEi.jpeg" group-title="ACCIÓN",El guardián: último refugio (2026)
+https://1a-1791.com/video/fwe2/67/s8/2/M/K/l/h/MKlhA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1719118848-1719184160
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5gdj8Wx.jpeg" group-title="ACCIÓN",Greenland 2: Migración (2026)
+http://zmedghe.rqsglwdvh.com:80/vod/8F533BA6350E4AEB97EE19FA9C2F3A0C_media.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GYB39MS.jpeg" group-title="ACCIÓN", Riesgo bajo cero: venganza (2025)
+https://1a-1791.com/video/fww1/1f/s8/2/o/G/X/e/oGXez.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IptoOKl.jpeg" group-title="DRAMA",Cumbres borrascosas (2026)
+https://1a-1791.com/video/fwe2/08/s8/2/-/Z/n/g/-ZngA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2184138752-2184221979
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/skV4KtJ.jpeg" group-title="DRAMA",Ayuda! (2026)
+https://1a-1791.com/video/fwe2/08/s8/2/m/4/H/g/m4HgA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1815535616-1815604647
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kEAlXq3.jpeg" group-title="DRAMA",La empleada (2026)
+https://dl.dropbox.com/scl/fi/8unhr9q8biyz5bmd2rimu/fisica.mp4?rlkey=2tqa6artmf0x73m3h2y49agq6&st=asis5gq7&dl=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cKmgErt.jpeg" group-title="DRAMA",El cuerpo (2012)
+https://1a-1791.com/video/fww1/ff/s8/2/O/j/N/g/OjNgA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1778130432-1778198015
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TD3xVwX.jpeg" group-title="COMEDIA",Otro viernes de locos (2025)
+https://1a-1791.com/video/fww1/d6/s8/2/C/u/a/e/Cuaez.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yiyiBst.jpeg" group-title="COMEDIA", Y donde está el policía? (2025)
+https://1a-1791.com/video/fww1/35/s8/2/U/b/Z/e/UbZez.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yfwjf1O.jpeg" group-title="TERROR",Scream 7 (2026)
+https://1a-1791.com/video/fww1/c8/s8/2/-/E/f/g/-EfgA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1871826432-1871897633
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8HA2Fx.jpeg" group-title="TERROR",El conjuro 4: Los últimos ritos (2025)
+https://1a-1791.com/video/fww1/64/s8/2/M/a/x/z/Maxzz.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VOUnOjX.jpeg" group-title="NACIONAL",La caja azul (2026)
+https://1a-1791.com/video/fwe2/99/s8/2/6/c/O/g/6cOgA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1340210688-1340261377
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61FJmLs.jpeg" group-title="NACIONAL",Homo Argentum (2025)
+https://1a-1791.com/video/fww1/6b/s8/2/8/G/H/R/8GHRz.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QFUj9D8.jpeg" group-title="INFANTIL",Zootopia 2 (2026)
+https://1a-1791.com/video/fww1/4a/s8/2/G/S/B/4/GSB4z.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jfwui5R.jpeg" group-title="INFANTIL",Los tipos malos 2 (2025)
+https://1a-1791.com/video/fww1/94/s8/2/g/M/h/e/gMhez.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f8U0TQU.jpeg" group-title="INFANTIL",Pitufos (2025)
+https://1a-1791.com/video/fww1/80/s8/2/s/J/I/_/sJI_y.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tgG0TDk.jpeg" group-title="INFANTIL",Lilo & Stitch (2025)
+https://1a-1791.com/video/fww1/52/s8/2/o/q/q/4/oqq4y.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DhfU9sB.jpeg" group-title="INFANTIL",Mi villano favorito 4 (2025)
+https://hugh.cdn.rumble.cloud/video/s8/2/s/m/t/b/smtbt.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0KwSmrE.jpeg" group-title="INFANTIL",Sonic 3: La película (2024)
+https://1a-1791.com/video/fwe2/94/s8/2/g/i/4/b/gi4bx.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/np3Sezw.jpeg" group-title="INFANTIL",Mufasa: El rey león (2024)
+https://1a-1791.com/video/fwe2/cf/s8/2/U/n/P/o/UnPoy.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/95Ukerw.jpeg" group-title="INFANTIL",Moana 2 (2024)
+https://1a-1791.com/video/fwe2/a6/s8/2/L/k/v/T/LkvTx.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LjTdntK.jpeg" group-title="INFANTIL",Intensamente 2 (2024)
+https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/INMT2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/En61gXJ.png" group-title="INFANTIL",Amigos imaginarios (2024)
+https://dl.dropbox.com/scl/fi/u04myu19d2bwuvc19wlxu/PS3MOVIE-..mp4?rlkey=pqp4k0a9mgr3jffcx8ti3k5tf&dl=0
