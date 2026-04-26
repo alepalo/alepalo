@@ -105,6 +105,9 @@ http://200.112.174.230/mtcast_espnpremiumhd/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="TV", ESPN Premium Op.2
 http://kstv.us:8080/live/N427DpynGE/7049166651/46727.ts
 
+#EXTINF:-1 tvg-logo="https" group-title="TV", ESPN 1
+http://200.112.174.230/mtcast_espnhd/mpegts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z97x72L.jpeg" group-title="ACCIÓN",Avatar 3: Fuego y cenizas (2025)
 https://1a-1791.com/video/fww1/99/s8/2/-/s/u/h/-suhA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3159732736-3159853390
 
