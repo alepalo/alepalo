@@ -7,7 +7,7 @@ https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/pl
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" group-title="TV", Canal 9 
-http://181.13.252.102:8000/play/a04h/index.m3u8
+http://200.112.174.230/mtcast_canal9hd/mpegts
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/telefe@2x.png" group-title="TV", Telefe
 http://200.112.174.230/mtcast_telefehd/mpegts
