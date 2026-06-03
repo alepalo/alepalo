@@ -221,7 +221,6 @@ https://dl.dropbox.com/scl/fi/0iqegpex3f97nmefkdrzf/L4.1d3a.d3.t1.2O024.mp4?rlke
 
 
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VOUnOjX.jpeg" group-title="NACIONAL",La caja azul (2026)
 https://rumble.com/hls-vod/76k174/playlist.m3u8?u=0&b=0
 
@@ -276,6 +275,14 @@ https://latinplay.xyz/cdn/hls/45cea4590f6361dafde3a64b4cce3e5f/master.txt
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uXkpoKy.jpeg" group-title="ROMINA",Ahí afuera 
+http://edcag.3r6q3i8w.com:80/vod/1F3F3D51610E4CFB8D47E1737BA6F3CB_media.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uXkpoKy.jpeg" group-title="ROMINA",Almas pasajeras 
+http://edcag.3r6q3i8w.com:80/vod/F0808D1E0D2D4776B5CDCDEFCACF70CA_media.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uXkpoKy.jpeg" group-title="ROMINA",Dos familias 
+http://edcag.3r6q3i8w.com:80/vod/E11F04C2F9D6495FA02A143C1CAE6DF7_meta.mp4
 
 
 
