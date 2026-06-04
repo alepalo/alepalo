@@ -275,15 +275,23 @@ https://latinplay.xyz/cdn/hls/45cea4590f6361dafde3a64b4cce3e5f/master.txt
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uXkpoKy.jpeg" group-title="ROMINA",Ahí afuera 
-http://edcag.3r6q3i8w.com:80/vod/1F3F3D51610E4CFB8D47E1737BA6F3CB_media.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oRtmSBegijsysFcA5Kwn2WmMdL4.jpg" group-title="ROMINA",Ahí afuera 
+https://cloud-s84178-118-164.spcdn.cc/dash/h75a5fxldle2alhulpat4mg7de3hze27vmifgtcbgb5tyis2ynxeq3y3xsda/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uXkpoKy.jpeg" group-title="ROMINA",Almas pasajeras 
-http://edcag.3r6q3i8w.com:80/vod/F0808D1E0D2D4776B5CDCDEFCACF70CA_media.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gtkiSQJfkruQHN8qrAqRGkeVmzv.jpg" group-title="ROMINA",Almas pasajeras 
+https://cloud-s84178-118-164.spcdn.cc/dash/h75a47hgdle2alhulpbd4k6sdl6mzdd5y6wkl5sql6fhlmnowffwkzpuqa4q/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uXkpoKy.jpeg" group-title="ROMINA",Dos familias 
-http://edcag.3r6q3i8w.com:80/vod/E11F04C2F9D6495FA02A143C1CAE6DF7_meta.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="ROMINA",Dos familias | episodio 1 (2025)
+http://series.tuxchannel.mx/series/playing_nice/s_01_e_01.mkv
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="ROMINA",Dos familias | episodio 2 (2025)
+http://series.tuxchannel.mx/series/playing_nice/s_01_e_02.mkv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="ROMINA",Dos familias | episodio 3 (2025)
+http://series.tuxchannel.mx/series/playing_nice/s_01_e_03.mkv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="ROMINA",Dos familias | episodio 4 (2025)
+http://series.tuxchannel.mx/series/playing_nice/s_01_e_04.mkv
 
 
 
