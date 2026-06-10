@@ -109,7 +109,20 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/46727.ts
 #EXTINF:-1 tvg-logo="https" group-title="TV", ESPN 1
 http://200.112.174.230/mtcast_espnhd/mpegts
 
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo2@2x.png" group-title="TV", HBO 2
+http://168.228.44.241:9998/play/a017/16088641.m3u8
 
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus@2x.png" group-title="TV", HBO +
+http://168.228.44.241:9998/play/a018/30412751.m3u8
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamilyhd.png" group-title="TV", HBO Family
+http://200.229.147.142:8000/play/a06q/95756049.m3u8
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime@2x.png" group-title="TV", HBO Xtreme
+http://200.229.147.142:8000/play/a00t/41655195.m3u8
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/hbomundi.png" group-title="TV", HBO Mundi
+http://181.13.252.102:8000/play/a02a/71830109.m3u8
 
 
 
