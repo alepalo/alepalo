@@ -109,6 +109,9 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/46727.ts
 #EXTINF:-1 tvg-logo="https" group-title="TV", ESPN 1
 http://200.112.174.230/mtcast_espnhd/mpegts
 
+#EXTINF:-1 tvg-logo="https" group-title="TV", Dsports
+http://miotv.cc:8080/RESTREAMCRUEL/T7464747/316095
+
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo2@2x.png" group-title="TV", HBO 2
 http://168.228.44.241:9998/play/a017/16088641.m3u8
 
