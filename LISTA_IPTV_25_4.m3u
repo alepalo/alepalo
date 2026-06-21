@@ -112,22 +112,65 @@ http://200.112.174.230/mtcast_espnhd/mpegts
 #EXTINF:-1 tvg-logo="https" group-title="TV", Dsports
 http://miotv.cc:8080/RESTREAMCRUEL/T7464747/316095
 
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/amc@2x.png" group-title="TV", amc
+http://200.112.174.230/mtcast_amchd/mpegts
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/axn@2x.png" group-title="TV", AXN
+http://200.112.174.230/mtcast_axnhd/mpegts
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/fx@2x.png" group-title="TV", FX
+http://200.112.174.230/mtcast_fxhd/mpegts
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/cinecanal@2x.png" group-title="TV", Cinecanal
+http://200.112.174.230/mtcast_cinecanalhd/mpegts
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="TV", Space
+http://200.112.174.230/mtcast_spacehd/mpegts
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/tnt@2x.png" group-title="TV", TNT
+http://200.112.174.230/mtcast_tnthd/mpegts
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/tntseries@2x.png" group-title="TV", TNT Series
+http://200.112.174.230/mtcast_tntserieshd/mpegts
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/warnerchannel@2x.png" group-title="TV", Warner
+http://200.112.174.230/mtcast_warnerhd/mpegts
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/sony.png" group-title="TV", Sony Channel
+http://200.112.174.230/mtcast_sonyhd/mpegts
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/Sony%20Movies%20128.png" group-title="TV", Sony Movies
+http://200.112.174.230/mtcast_sonymovieshd/mpegts
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/star.png" group-title="TV", Star Channel
+http://200.112.174.230/mtcast_starhd/mpegts
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/universalchannel.png" group-title="TV", Universal Channel
+http://200.112.174.230/mtcast_universalhd/mpegts
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/hbohd@2x.png" group-title="TV", HBO 
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187176.ts
+
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo2@2x.png" group-title="TV", HBO 2
-http://168.228.44.241:9998/play/a017/16088641.m3u8
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187164.ts
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus@2x.png" group-title="TV", HBO +
-http://168.228.44.241:9998/play/a018/30412751.m3u8
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187170.ts
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamilyhd.png" group-title="TV", HBO Family
-http://200.229.147.142:8000/play/a06q/95756049.m3u8
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187173.ts
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/hbosignaturehd@2x.png" group-title="TV", HBO Signature
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187167.ts
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime@2x.png" group-title="TV", HBO Xtreme
-http://200.229.147.142:8000/play/a00t/41655195.m3u8
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/280427.ts
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup@2x.png" group-title="TV", HBO Pop
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187179.ts
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/hbomundi.png" group-title="TV", HBO Mundi
-http://181.13.252.102:8000/play/a02a/71830109.m3u8
-
-
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/280427.ts
 
 
 
