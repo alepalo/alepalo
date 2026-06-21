@@ -88,29 +88,17 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720p.m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="TV", TyC Sports
 http://200.112.174.230/mtcast_tychd/mpegts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="TV", TyC Sports Op.2
-http://kstv.us:8080/live/N427DpynGE/7049166651/46748.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="TV", TyC Sports Op.3
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/8631.ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="TV", TNT Sports 
 http://200.112.174.230/mtcast_tntsportshd/mpegts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="TV", TNT Sports Op.2
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/462.ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="TV", ESPN Premium
 http://200.112.174.230/mtcast_espnpremiumhd/mpegts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="TV", ESPN Premium Op.2
-http://kstv.us:8080/live/N427DpynGE/7049166651/46727.ts
 
 #EXTINF:-1 tvg-logo="https" group-title="TV", ESPN 1
 http://200.112.174.230/mtcast_espnhd/mpegts
 
 #EXTINF:-1 tvg-logo="https" group-title="TV", Dsports
-http://miotv.cc:8080/RESTREAMCRUEL/T7464747/316095
+http://miotv.cc:8080/RESTREAMCRUEL/T7464747/316095.ts
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/amc@2x.png" group-title="TV", amc
 http://200.112.174.230/mtcast_amchd/mpegts
@@ -124,12 +112,14 @@ http://200.112.174.230/mtcast_fxhd/mpegts
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/cinecanal@2x.png" group-title="TV", Cinecanal
 http://200.112.174.230/mtcast_cinecanalhd/mpegts
 
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/cinemaxhd@2x.png" group-title="TV", Cinemax
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187159.ts
+
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="TV", Space
 http://200.112.174.230/mtcast_spacehd/mpegts
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/tnt@2x.png" group-title="TV", TNT
 http://200.112.174.230/mtcast_tnthd/mpegts
-
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/tntseries@2x.png" group-title="TV", TNT Series
 http://200.112.174.230/mtcast_tntserieshd/mpegts
 
@@ -172,17 +162,39 @@ http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187179.ts
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/hbomundi.png" group-title="TV", HBO Mundi
 http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/280427.ts
 
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/Universal%20Premiere%20128%20ok.png" group-title="TV", Universal Premiere
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/300256.ts
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/Universal%20Cinema%20128%20ok.png" group-title="TV", Universal Cinema
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187233.ts
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/Universal%20Comedy%20128%20ok.png" group-title="TV", Universal Comedy
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187230.ts
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/Universal%20Crime%20128%20ok.png" group-title="TV", Universal Crimen
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187234.ts
 
 
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/Awvlydvag364audeksfRFldVslq.jpg" group-title="ACCIÓN", Instinto implacable (2026)
+http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/439394.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A5YowtG.jpeg" group-title="ACCIÓN",Jack Ryan de Tom Clancy: Guerra fantasma (2026)
-https://cloud-s84178-118-164.spcdn.cc/hls/h75a6buldle2alhulpbt4p65itsyresnbeyeyhn4nnqvaeg262ve7ftpqlxq/master.m3u8
+http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/437753.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qIhc4zKqQNyT7zWPUXusadELGmg.jpg" group-title="ACCIÓN", ÁPEX (2026)
+http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/433811.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/7OCaLf0Gc7L5a3jIPfELR3tuzXV.jpg" group-title="ACCIÓN", Proyecto fin del mundo (2026)
+http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/436551.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C9fNakK.jpeg" group-title="ACCIÓN",Venganza (2026)
-https://cloud-s84178-118-164.spcdn.cc/hls/h75a522edpe2alhulpht4mgsby5roscdzkvypfo4rvqgs67sapchuzbfbweq/master.m3u8
+http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/429247.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z97x72L.jpeg" group-title="ACCIÓN",Avatar 3: Fuego y cenizas (2025)
 https://rumble.com/hls-vod/76nvzq/playlist.m3u8?u=0&b=0
@@ -203,7 +215,7 @@ https://rumble.com/hls-vod/7854d8/playlist.m3u8?u=0&b=0
 https://1a-1791.com/video/fww1/1f/s8/2/o/G/X/e/oGXez.aaa.mp4
 
 #EXTINF:-1 tvg-logo="https" group-title="ACCIÓN", Del cielo al infierno (2024)
-https://latinplay.xyz/cdn/hls/ab5ae8491e2e43ee320e8cac07e09ff6/master.txt
+http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/422326.mp4
 
 
 
@@ -217,10 +229,10 @@ https://rumble.com/hls-vod/785nx8/playlist.m3u8?u=0&b=0
 https://rumble.com/hls-vod/76hp86/playlist.m3u8?u=0&b=0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/skV4KtJ.jpeg" group-title="DRAMA",Ayuda! (2026)
-https://1a-1791.com/video/fwe2/08/s8/2/m/4/H/g/m4HgA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1815535616-1815604647
+https://rumble.com/hls-vod/76jgn8/playlist.m3u8?u=0&b=0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iJpfN0T.jpeg" group-title="DRAMA",Agente Z (2026)
-http://zmedghe.rqsglwdvh.com:80/vod/E72701046463417680C69ED0B781D79D_media.mp4
+http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/412526.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kEAlXq3.jpeg" group-title="DRAMA",La empleada (2026)
 https://dl.dropbox.com/scl/fi/8unhr9q8biyz5bmd2rimu/fisica.mp4?rlkey=2tqa6artmf0x73m3h2y49agq6&st=asis5gq7&dl=1
@@ -257,8 +269,7 @@ https://1a-1791.com/video/fww1/64/s8/2/M/a/x/z/Maxzz.aaa.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a73ReDC.jpeg" group-title="ROMANCE",No te olvidaré (2026)
-http://edcag.3r6q3i8w.com/vod/D86BB8BDC0AA4D49A76237537AA2C081_media.mp4
-
+http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/426180.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ckT11Za.jpeg" group-title="ROMANCE",Romper el círculo (2025)
 https://hugh.cdn.rumble.cloud/video/s8/2/Z/B/O/q/ZBOqt.aaa.mp4
 
@@ -273,6 +284,7 @@ https://1a-1791.com/video/fwe2/59/s8/2/l/s/n/-/lsn-v.aaa.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7FLRYnV.png" group-title="ROMANCE",La idea de ti (2024)
 https://dl.dropbox.com/scl/fi/0iqegpex3f97nmefkdrzf/L4.1d3a.d3.t1.2O024.mp4?rlkey=35bsulfbwsw0xshbw7io9sv6c&st=firxprzf
+
 
 
 
@@ -329,28 +341,12 @@ https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/INMT2.mp4
 https://dl.dropbox.com/scl/fi/u04myu19d2bwuvc19wlxu/PS3MOVIE-..mp4?rlkey=pqp4k0a9mgr3jffcx8ti3k5tf&dl=0
 
 #EXTINF:-1 tvg-logo="https" group-title="INFANTIL",Coco (2024)
-https://latinplay.xyz/cdn/hls/45cea4590f6361dafde3a64b4cce3e5f/master.txt
+http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/201174.mkv
 
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oRtmSBegijsysFcA5Kwn2WmMdL4.jpg" group-title="ROMINA",Ahí afuera 
-https://cloud-s84178-118-164.spcdn.cc/dash/h75a5fxldle2alhulpat4mg7de3hze27vmifgtcbgb5tyis2ynxeq3y3xsda/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gtkiSQJfkruQHN8qrAqRGkeVmzv.jpg" group-title="ROMINA",Almas pasajeras 
-https://cloud-s84178-118-164.spcdn.cc/dash/h75a47hgdle2alhulpbd4k6sdl6mzdd5y6wkl5sql6fhlmnowffwkzpuqa4q/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="ROMINA",Dos familias | episodio 1 (2025)
-http://series.tuxchannel.mx/series/playing_nice/s_01_e_01.mkv
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="ROMINA",Dos familias | episodio 2 (2025)
-http://series.tuxchannel.mx/series/playing_nice/s_01_e_02.mkv
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="ROMINA",Dos familias | episodio 3 (2025)
-http://series.tuxchannel.mx/series/playing_nice/s_01_e_03.mkv
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="ROMINA",Dos familias | episodio 4 (2025)
-http://series.tuxchannel.mx/series/playing_nice/s_01_e_04.mkv
 
 
 
@@ -378,6 +374,29 @@ https://archive.org/download/fisica-4-7/fisica%204%20%286%29.mkv
 https://archive.org/download/fisica-4-7/fisica%204%20%287%29.mkv
 
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oRtmSBegijsysFcA5Kwn2WmMdL4.jpg" group-title="ROMINA",Ahí afuera 
+https://cloud-s84178-118-164.spcdn.cc/dash/h75a5fxldle2alhulpat4mg7de3hze27vmifgtcbgb5tyis2ynxeq3y3xsda/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gtkiSQJfkruQHN8qrAqRGkeVmzv.jpg" group-title="ROMINA",Almas pasajeras 
+https://cloud-s84178-118-164.spcdn.cc/dash/h75a47hgdle2alhulpbd4k6sdl6mzdd5y6wkl5sql6fhlmnowffwkzpuqa4q/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="ROMINA",Dos familias | episodio 1 (2025)
+http://series.tuxchannel.mx/series/playing_nice/s_01_e_01.mkv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="ROMINA",Dos familias | episodio 2 (2025)
+http://series.tuxchannel.mx/series/playing_nice/s_01_e_02.mkv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="ROMINA",Dos familias | episodio 3 (2025)
+http://series.tuxchannel.mx/series/playing_nice/s_01_e_03.mkv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="ROMINA",Dos familias | episodio 4 (2025)
+http://series.tuxchannel.mx/series/playing_nice/s_01_e_04.mkv
 
 
 
@@ -449,24 +468,3 @@ http://edcag.3r6q3i8w.com:80/vod/8AE02F1522EF46098954A60AAE42435E_media.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mmaz5PH.jpeg" group-title="EL RESTO BIEN",Episodio 8 (2026)
 http://edcag.3r6q3i8w.com:80/vod/8D1664748F7A4127B0C7420088C59038_media.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
