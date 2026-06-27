@@ -1,17 +1,5 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="" tvg-name="Dos familias - S01E01" tvg-logo="https://image.tmdb.org/t/p/w300/kvKUpLS0whSSf1d4ozQQRiuC0I7.jpg" group-title="SERIES", Dos familias - S01E01
-http://series.tuxchannel.mx/series/playing_nice/s_01_e_01.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Dos familias - S01E02" tvg-logo="https://image.tmdb.org/t/p/w300/kvKUpLS0whSSf1d4ozQQRiuC0I7.jpg" group-title="SERIES", Dos familias - S01E02
-http://series.tuxchannel.mx/series/playing_nice/s_01_e_02.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Dos familias - S01E03" tvg-logo="https://image.tmdb.org/t/p/w300/kvKUpLS0whSSf1d4ozQQRiuC0I7.jpg" group-title="SERIES", Dos familias - S01E03
-http://series.tuxchannel.mx/series/playing_nice/s_01_e_03.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Dos familias - S01E03"  tvg-logo="https://image.tmdb.org/t/p/w300/kvKUpLS0whSSf1d4ozQQRiuC0I7.jpg" group-title="SERIES", Dos familias - S01E04
-http://series.tuxchannel.mx/series/playing_nice/s_01_e_04.mkv
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="TV", América Tv 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 
@@ -335,26 +323,41 @@ https://dl.dropbox.com/scl/fi/u04myu19d2bwuvc19wlxu/PS3MOVIE-..mp4?rlkey=pqp4k0a
 #EXTINF:-1 tvg-logo="https" group-title="INFANTIL",Coco (2024)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/201174.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uXkpoKy.jpeg" group-title="EL ENCARGADO 4",Episodio 1 (2026)
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id=""  tvg-name="El encargado - S04E01"  tvg-logo="https://image.tmdb.org/t/p/w300/41SlC4xbNhYkuaGCo62fxYfNXQ7.jpg" group-title="SERIES",El encargado - S04E01
 https://archive.org/download/fisica-4-7/fisica%204%20%281%29.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uXkpoKy.jpeg" group-title="EL ENCARGADO 4",Episodio 2 (2026)
+#EXTINF:-1 tvg-id=""  tvg-name="El encargado - S04E02"  tvg-logo="https://image.tmdb.org/t/p/w300/41SlC4xbNhYkuaGCo62fxYfNXQ7.jpg" group-title="SERIES",El encargado - S04E02
 https://archive.org/download/fisica-4-7/fisica%204%20%282%29.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uXkpoKy.jpeg" group-title="EL ENCARGADO 4",Episodio 3 (2026)
+#EXTINF:-1 tvg-id=""  tvg-name="El encargado - S04E03"  tvg-logo="https://image.tmdb.org/t/p/w300/41SlC4xbNhYkuaGCo62fxYfNXQ7.jpg" group-title="SERIES",El encargado - S04E03
 https://archive.org/download/fisica-4-7/fisica%204%20%283%29.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uXkpoKy.jpeg" group-title="EL ENCARGADO 4",Episodio 4 (2026)
+#EXTINF:-1 tvg-id=""  tvg-name="El encargado - S04E04"  tvg-logo="https://image.tmdb.org/t/p/w300/41SlC4xbNhYkuaGCo62fxYfNXQ7.jpg" group-title="SERIES",El encargado - S04E04
 https://archive.org/download/fisica-4-7/fisica%204%20%284%29.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uXkpoKy.jpeg" group-title="EL ENCARGADO 4",Episodio 5 (2026)
+#EXTINF:-1 tvg-id=""  tvg-name="El encargado - S04E05"  tvg-logo="https://image.tmdb.org/t/p/w300/41SlC4xbNhYkuaGCo62fxYfNXQ7.jpg" group-title="SERIES",El encargado - S04E05
 https://archive.org/download/fisica-4-7/fisica%204%20%285%29.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uXkpoKy.jpeg" group-title="EL ENCARGADO 4",Episodio 6 (2026)
+#EXTINF:-1 tvg-id=""  tvg-name="El encargado - S04E06"  tvg-logo="https://image.tmdb.org/t/p/w300/41SlC4xbNhYkuaGCo62fxYfNXQ7.jpg" group-title="SERIES",El encargado - S04E06
 https://archive.org/download/fisica-4-7/fisica%204%20%286%29.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uXkpoKy.jpeg" group-title="EL ENCARGADO 4",Episodio 7 (2026)
+#EXTINF:-1 tvg-id=""  tvg-name="El encargado - S04E07"  tvg-logo="https://image.tmdb.org/t/p/w300/41SlC4xbNhYkuaGCo62fxYfNXQ7.jpg" group-title="SERIES",El encargado - S04E07
 https://archive.org/download/fisica-4-7/fisica%204%20%287%29.mkv
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/oRtmSBegijsysFcA5Kwn2WmMdL4.jpg" group-title="ROMINA",Ahí afuera 
 https://rumble.com/hls-vod/79gaew/playlist.m3u8
@@ -364,18 +367,6 @@ http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/438608.mp4
 
 
 
-
-#EXTINF:-1 tvg-id="DOS FAMILIAS.S01E01"  tvg-name="DOS FAMILIAS S01E01" tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="SERIES",S01E01 
-http://series.tuxchannel.mx/series/playing_nice/s_01_e_01.mkv
-
-#EXTINF:-1 tvg-id="DOS FAMILIAS.S01E02"  tvg-name="DOS FAMILIAS S01E02" tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="SERIES",S01E02 
-http://series.tuxchannel.mx/series/playing_nice/s_01_e_02.mkv
-
-#EXTINF:-1 tvg-id="DOS FAMILIAS.S01E03"  tvg-name="DOS FAMILIAS S01E03" tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="SERIES",S01E03 
-http://series.tuxchannel.mx/series/playing_nice/s_01_e_03.mkv
-
-#EXTINF:-1 tvg-id="DOS FAMILIAS.S01E04"  tvg-name="DOS FAMILIAS S01E04" tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="SERIES",S01E04 
-http://series.tuxchannel.mx/series/playing_nice/s_01_e_04.mkv
 
 
 
@@ -417,52 +408,19 @@ http://edcag.3r6q3i8w.com:80/vod/A1597037304840BFBDA699D9C554D9AA_media.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mmaz5PH.jpeg" group-title="EL RESTO BIEN",Episodio 4 (2026)
-http://edcag.3r6q3i8w.com:80/vod/8360EFC48EC4490F9B8EEB6A5BF30AB7_media.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mmaz5PH.jpeg" group-title="EL RESTO BIEN",Episodio 5 (2026)
-http://edcag.3r6q3i8w.com:80/vod/3075770EA72A4660B19DA7F3B4815F63_media.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mmaz5PH.jpeg" group-title="EL RESTO BIEN",Episodio 6 (2026)
-http://edcag.3r6q3i8w.com:80/vod/60433C2EAC494A28B59083C38186EBEC_media.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mmaz5PH.jpeg" group-title="EL RESTO BIEN",Episodio 7 (2026)
-http://edcag.3r6q3i8w.com:80/vod/8AE02F1522EF46098954A60AAE42435E_media.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mmaz5PH.jpeg" group-title="EL RESTO BIEN",Episodio 8 (2026)
-http://edcag.3r6q3i8w.com:80/vod/8D1664748F7A4127B0C7420088C59038_media.mp4
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Dos familias: S01 - S01E01" tvg-logo="https://image.tmdb.org/t/p/w300/kvKUpLS0whSSf1d4ozQQRiuC0I7.jpg" group-title="SERIE", Dos familias - S01E01
+#EXTINF:-1 tvg-id="" tvg-name="Dos familias - S01E01" tvg-logo="https://image.tmdb.org/t/p/w300/kvKUpLS0whSSf1d4ozQQRiuC0I7.jpg" group-title="SERIES", Dos familias - S01E01
 http://series.tuxchannel.mx/series/playing_nice/s_01_e_01.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Dos familias: S01 - S01E02" tvg-logo="https://image.tmdb.org/t/p/w300/kvKUpLS0whSSf1d4ozQQRiuC0I7.jpg" group-title="SERIE", Dos familias - S01E02
+#EXTINF:-1 tvg-id="" tvg-name="Dos familias - S01E02" tvg-logo="https://image.tmdb.org/t/p/w300/kvKUpLS0whSSf1d4ozQQRiuC0I7.jpg" group-title="SERIES", Dos familias - S01E02
 http://series.tuxchannel.mx/series/playing_nice/s_01_e_02.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Dos familias: S01 - S01E03" tvg-logo="https://image.tmdb.org/t/p/w300/kvKUpLS0whSSf1d4ozQQRiuC0I7.jpg" group-title="SERIE", Dos familias - S01E03
+#EXTINF:-1 tvg-id="" tvg-name="Dos familias - S01E03" tvg-logo="https://image.tmdb.org/t/p/w300/kvKUpLS0whSSf1d4ozQQRiuC0I7.jpg" group-title="SERIES", Dos familias - S01E03
 http://series.tuxchannel.mx/series/playing_nice/s_01_e_03.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Dos familias: S01 - S01E03"  tvg-logo="https://image.tmdb.org/t/p/w300/kvKUpLS0whSSf1d4ozQQRiuC0I7.jpg" group-title="SERIE", Dos familias - S01E04
+#EXTINF:-1 tvg-id="" tvg-name="Dos familias - S01E03"  tvg-logo="https://image.tmdb.org/t/p/w300/kvKUpLS0whSSf1d4ozQQRiuC0I7.jpg" group-title="SERIES", Dos familias - S01E04
 http://series.tuxchannel.mx/series/playing_nice/s_01_e_04.mkv
 
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="El resto bien: S02 - S01E01"  tvg-logo="https://image.tmdb.org/t/p/w300/12Rlo30B7NPm3Ynz5KeCHP3pjVV.jpg" group-title="SERIES", El resto bien - S01E01
-http://edcag.3r6q3i8w.com:80/vod/E2EE1108F6FE41DCAB17E3B23BEADB62_media.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="El resto bien: S02 - S01E02"  tvg-logo="https://image.tmdb.org/t/p/w300/12Rlo30B7NPm3Ynz5KeCHP3pjVV.jpg" group-title="SERIES", El resto bien - S01E02
-http://edcag.3r6q3i8w.com:80/vod/D691C7272D5F476F8F19EFE1BF9C0E3F_media.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="El resto bien: S02 - S01E03"  tvg-logo="https://image.tmdb.org/t/p/w300/12Rlo30B7NPm3Ynz5KeCHP3pjVV.jpg" group-title="SERIES", El resto bien - S01E03
-http://edcag.3r6q3i8w.com:80/vod/E6EFE63D65004C15A3EA61B90214B3E6_media.mp4
 
