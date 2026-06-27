@@ -353,16 +353,16 @@ http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/438608.mp4
 
 
 
-#EXTINF:-1 tvg-name="DOS FAMILIAS"  tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="SERIE",Dos familias | episodio 1 (2025)
+#EXTINF:-1 tvg-id="DOS FAMILIAS"  tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="SERIE",S01E01 (2025)
 http://series.tuxchannel.mx/series/playing_nice/s_01_e_01.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="SERIE",Dos familias | episodio 2 (2025)
+#EXTINF:-1 tvg-id="DOS FAMILIAS"  tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="SERIE",S01E02 (2025)
 http://series.tuxchannel.mx/series/playing_nice/s_01_e_02.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="SERIE",Dos familias | episodio 3 (2025)
+#EXTINF:-1 tvg-id="DOS FAMILIAS" tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="SERIE",S01E03 (2025)
 http://series.tuxchannel.mx/series/playing_nice/s_01_e_03.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="SERIE",Dos familias | episodio 4 (2025)
+#EXTINF:-1  tvg-id="DOS FAMILIAS"   tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="SERIE",SO1E04 (2025)
 http://series.tuxchannel.mx/series/playing_nice/s_01_e_04.mkv
 
 
