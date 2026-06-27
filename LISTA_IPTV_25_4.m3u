@@ -1,9 +1,9 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="" tvg-name="Dos casas: S01 - S01E01" tvg- logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="SERIES", Episodio 01
+#EXTINF:-1 tvg-id="" tvg-name="Dos casas: S01 - S01E01 Episodio 1" tvg- logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="SERIES", Dos casas 1
 http://miotv.cc:8080/RFJCVGwvej BUNXCXL3 QrZ1JzUm14Y2pmSEF1cS91bU5vbmxxenNPVGdzd 21uVHZtWHluQzJ3Y2ZtTFFhWFVPSQ
 
-#EXTINF:-1 tvg-id="" tvg-name="Dos casas: S01 - S01E02" tvg- logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="SERIES", Dos casas - S01E02 Episodio 02
+#EXTINF:-1 tvg-id="" tvg-name="Dos casas: S01 - S01E02 Episodio 2" tvg- logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="SERIES", Dos casas 2
 http://miotv.cc:8080/RFJCVGwvej BUNXCXL3 QrZ1JzUm14Y2pmSEF1cS91bU5vbmxxenNPVGdzd 21uVHZtWHluQzJ3Y2ZtTFFhWFVPSQ
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="TV", América Tv 
