@@ -1,28 +1,28 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="TV", América Tv 
-https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png" group-title="TV", Tv Pública 
-https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+http://playcom.trapemn.tv:1935/transcoderip/tvpublica.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" group-title="TV", Canal 9 
-http://200.112.174.230/mtcast_canal9hd/mpegts
+http://velive.lat:8080/live/az6n98/frt56c/272040.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="TV", Telefe
-http://go:TELEFE
+http://velive.lat:8080/live/az6n98/frt56c/272043.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="TV", El Trece 
-http://200.112.174.230/mtcast_eltrecehd/mpegts
+http://velive.lat:8080/live/az6n98/frt56c/272044.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/5miXpvS.png" group-title="TV", Todo Noticias 
-http://200.112.174.230/mtcast_tnhd/mpegts
+http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="TV", La Nación +
-http://200.112.174.230/mtcast_lnhd/mpegts
+http://velive.lat:8080/live/az6n98/frt56c/272048.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="TV", C5N
-http://200.112.174.230/mtcast_c5nhd/mpegts
+http://velive.lat:8080/live/az6n98/frt56c/272077.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="TV", A24 
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
@@ -31,10 +31,10 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/8GfFTZA.png" group-title="TV", Crónica Tv 
-https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
+https://nameless-resonance-f644.javimarki.workers.dev/6
 
 #EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2025/11/Arg-12.jpg" group-title="TV", Ar|12 
-http://190.7.19.197:232/play/a00o/index.m3u8
+https://nameless-resonance-f644.javimarki.workers.dev/3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM9EoFL.png" group-title="TV", Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
@@ -69,7 +69,6 @@ https://unlimited1-saopaulo.dps.live/carastv/carastv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmBGAnc.png" group-title="TV", Cinear 
 http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-19.playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sFLcJR4.png" group-title="TV", Encuentro 
 http://181.13.252.102:8000/play/a01m/index.m3u8
 
@@ -83,60 +82,61 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-36_400.m
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/deportv%20128.png" group-title="TV",DeporTv 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720p.m3u8
+http://velive.lat:8080/live/az6n98/frt56c/272074.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="TV", TyC Sports
-http://200.112.174.230/mtcast_tychd/mpegts
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/273599.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="TV", TNT Sports 
-http://200.112.174.230/mtcast_tntsportshd/mpegts
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/273599.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="TV", ESPN Premium
-http://200.112.174.230/mtcast_espnpremiumhd/mpegts
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/273602.ts
 
 #EXTINF:-1 tvg-logo="https" group-title="TV", ESPN 1
-http://200.112.174.230/mtcast_espnhd/mpegts
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/273604.ts
 
 #EXTINF:-1 tvg-logo="https" group-title="TV", Dsports
 http://miotv.cc:8080/RESTREAMCRUEL/T7464747/316095.ts
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/amc@2x.png" group-title="TV", amc
-http://200.112.174.230/mtcast_amchd/mpegts
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187213.ts
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/axn@2x.png" group-title="TV", AXN
-http://200.112.174.230/mtcast_axnhd/mpegts
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187192.ts
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/fx@2x.png" group-title="TV", FX
-http://200.112.174.230/mtcast_fxhd/mpegts
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187207.ts
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/cinecanal@2x.png" group-title="TV", Cinecanal
-http://200.112.174.230/mtcast_cinecanalhd/mpegts
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187189.ts
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/cinemaxhd@2x.png" group-title="TV", Cinemax
 http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187159.ts
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="TV", Space
-http://200.112.174.230/mtcast_spacehd/mpegts
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187210.ts
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/tnt@2x.png" group-title="TV", TNT
-http://200.112.174.230/mtcast_tnthd/mpegts
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187183.ts
+
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/tntseries@2x.png" group-title="TV", TNT Series
-http://200.112.174.230/mtcast_tntserieshd/mpegts
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187186.ts
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/warnerchannel@2x.png" group-title="TV", Warner
-http://200.112.174.230/mtcast_warnerhd/mpegts
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187194.ts
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/sony.png" group-title="TV", Sony Channel
-http://200.112.174.230/mtcast_sonyhd/mpegts
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187197.ts
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/Sony%20Movies%20128.png" group-title="TV", Sony Movies
 http://200.112.174.230/mtcast_sonymovieshd/mpegts
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/star.png" group-title="TV", Star Channel
-http://200.112.174.230/mtcast_starhd/mpegts
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187162.ts
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/universalchannel.png" group-title="TV", Universal Channel
-http://200.112.174.230/mtcast_universalhd/mpegts
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187204.ts
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/hbohd@2x.png" group-title="TV", HBO 
 http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187176.ts
@@ -174,33 +174,29 @@ http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187230.ts
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/Universal%20Crime%20128%20ok.png" group-title="TV", Universal Crimen
 http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187234.ts
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/Awvlydvag364audeksfRFldVslq.jpg" group-title="ACCIÓN", Instinto implacable (2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/439394.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/miotpWL3RXeTvLJnkhaoWcbXvJf.jpg" group-title="ACCIÓN", Caminos de crimen (2026)
+https://1a-1791.com/video/fww1/84/s8/2/-/7/J/b/-7JbA.aaa.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A5YowtG.jpeg" group-title="ACCIÓN",Jack Ryan de Tom Clancy: Guerra fantasma (2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/437753.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qIhc4zKqQNyT7zWPUXusadELGmg.jpg" group-title="ACCIÓN", ÁPEX (2026)
-http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/433811.mp4
+https://hugh.cdn.rumble.cloud/video/fww1/79/s8/2/Y/R/e/t/YRetA.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="ACCIÓN",Mortal Kombat (2026)
+https://hugh.cdn.rumble.cloud/video/fww1/c9/s8/2/g/Q/Y/v/gQYvA.aaa.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/7OCaLf0Gc7L5a3jIPfELR3tuzXV.jpg" group-title="ACCIÓN", Proyecto fin del mundo (2026)
-http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/436551.mp4
+https://hugh.cdn.rumble.cloud/video/fwe2/c6/s8/2/O/H/c/q/OHcqA.aaa.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C9fNakK.jpeg" group-title="ACCIÓN",Venganza (2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/429247.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z97x72L.jpeg" group-title="ACCIÓN",Avatar 3: Fuego y cenizas (2025)
-https://rumble.com/hls-vod/76nvzq/playlist.m3u8?u=0&b=0
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rQ42FBE.jpeg" group-title="ACCIÓN",Caminos del crimen (2026)
-http://zmedghe.rqsglwdvh.com:80/vod/ECA91255B1684D4881A16EA2D7B964DB_media.mp4
+https://1a-1791.com/video/fww1/a2/s8/2/y/S/9/a/yS9aA.aaa.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rssIz96.jpeg" group-title="ACCIÓN",Máquina de guerra (2026)
 https://dl.dropbox.com/scl/fi/22ipr8f6f3c67iaazp9y6/f-sica.mp4?rlkey=e3evan7tm1o5akqfc651nw9ai&st=s01a5dub&dl=1
@@ -209,27 +205,43 @@ https://dl.dropbox.com/scl/fi/22ipr8f6f3c67iaazp9y6/f-sica.mp4?rlkey=e3evan7tm1o
 https://rumble.com/hls-vod/76n4f2/playlist.m3u8?u=0&b=0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5gdj8Wx.jpeg" group-title="ACCIÓN",Greenland 2: Migración (2026)
-https://rumble.com/hls-vod/7854d8/playlist.m3u8?u=0&b=0
+https://1a-1791.com/video/fwe2/d9/s8/2/8/D/K/-/8DK-z.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ttEESBvVrO8ngZr19qp6eBMVS9F.jpg" group-title="ACCIÓN", Equipo demolición (2025)
+https://1a-1791.com/video/fwe2/a7/s8/2/K/e/H/U/KeHUz.aaa.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GYB39MS.jpeg" group-title="ACCIÓN", Riesgo bajo cero: venganza (2025)
 https://1a-1791.com/video/fww1/1f/s8/2/o/G/X/e/oGXez.aaa.mp4
 
 #EXTINF:-1 tvg-logo="https" group-title="ACCIÓN", Del cielo al infierno (2024)
-http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/422326.mp4
+https://1a-1791.com/video/fww1/8f/s8/2/8/6/G/f/86Gfz.aaa.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/xihssRPgRDZ7xwIjx3xuPTnqPfU.jpg" group-title="ACCIÓN", G20 (2025)
+https://1a-1791.com/video/fww1/4f/s8/2/P/W/s/W/PWsWy.aaa.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/AoXAvZDxcym6oONBvJ82tFjEGdY.jpg" group-title="ACCIÓN", Bala perdida 3 (2024)
+https://1a-1791.com/video/fww1/14/s8/2/P/K/B/I/PKBIy.aaa.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/4VZOPGFq4QQsOMz51klXJMgQUUJ.jpg" group-title="ACCIÓN",El último encargo (2025)
+https://1a-1791.com/video/fwe2/7d/s8/2/M/X/2/-/MX2-z.aaa.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/bTYbNWz4kI1P3GzEVvWZwyZT7Uv.jpg" group-title="ACCIÓN", Extraterritorial (2025)
+https://1a-1791.com/video/fww1/f5/s8/2/x/T/G/H/xTGHy.aaa.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/70Na5MXfOsFlJvoX6oKYAwOhNN9.jpg" group-title="ACCIÓN", Juego sucio (2025)
+https://1a-1791.com/video/fww1/20/s8/2/-/z/U/7/-zU7z.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/y80qIpEmqFAHlqzgkbo0wOgxIyS.jpg" group-title="ACCIÓN", Estado eléctrico (2025)
+https://archive.org/download/31-r-0b-0-p-3rf-3c-70-2-pn-73r-4-2025.1080/3574d0_313ctr1c0_2025.1080..mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/csabO8C.jpeg" group-title="DRAMA", El diablo viste a la moda 2 (2026)
-https://rumble.com/hls-vod/785nx8/playlist.m3u8?u=0&b=0
+https://rumble.com/hls-vod/79gdii/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IptoOKl.jpeg" group-title="DRAMA",Cumbres borrascosas (2026)
-https://rumble.com/hls-vod/76hp86/playlist.m3u8?u=0&b=0
+https://rumble.com/hls-vod/76hp86/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/skV4KtJ.jpeg" group-title="DRAMA",Ayuda! (2026)
-https://rumble.com/hls-vod/76jgn8/playlist.m3u8?u=0&b=0
+https://rumble.com/hls-vod/76jgn8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iJpfN0T.jpeg" group-title="DRAMA",Agente Z (2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/412526.mp4
@@ -240,33 +252,17 @@ https://dl.dropbox.com/scl/fi/8unhr9q8biyz5bmd2rimu/fisica.mp4?rlkey=2tqa6artmf0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cKmgErt.jpeg" group-title="DRAMA",El cuerpo (2012)
 https://1a-1791.com/video/fww1/ff/s8/2/O/j/N/g/OjNgA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1778130432-1778198015
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TD3xVwX.jpeg" group-title="COMEDIA",Otro viernes de locos (2025)
 https://rumble.com/hls-vod/78801a/playlist.m3u8?u=0&b=0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yiyiBst.jpeg" group-title="COMEDIA", Y donde está el policía? (2025)
 https://1a-1791.com/video/fww1/35/s8/2/U/b/Z/e/UbZez.aaa.mp4
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yfwjf1O.jpeg" group-title="TERROR",Scream 7 (2026)
 https://rumble.com/hls-vod/76gywm/playlist.m3u8?u=0&b=0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w8HA2Fx.jpeg" group-title="TERROR",El conjuro 4: Los últimos ritos (2025)
 https://1a-1791.com/video/fww1/64/s8/2/M/a/x/z/Maxzz.aaa.mp4
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a73ReDC.jpeg" group-title="ROMANCE",No te olvidaré (2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/426180.mp4
@@ -285,13 +281,6 @@ https://1a-1791.com/video/fwe2/59/s8/2/l/s/n/-/lsn-v.aaa.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7FLRYnV.png" group-title="ROMANCE",La idea de ti (2024)
 https://dl.dropbox.com/scl/fi/0iqegpex3f97nmefkdrzf/L4.1d3a.d3.t1.2O024.mp4?rlkey=35bsulfbwsw0xshbw7io9sv6c&st=firxprzf
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VOUnOjX.jpeg" group-title="NACIONAL",La caja azul (2026)
 https://rumble.com/hls-vod/76k174/playlist.m3u8?u=0&b=0
 
@@ -300,14 +289,6 @@ https://1a-1791.com/video/fww1/6b/s8/2/8/G/H/R/8GHRz.aaa.mp4
 
 #EXTINF:-1 tvg-logo="httpsjpeg" group-title="NACIONAL",Me casé con un boludo (2025)
 https://archive.org/download/m3cas3c0nunb01ud0/m3cas3c0nunb01ud0.ia.mp4
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QFUj9D8.jpeg" group-title="INFANTIL",Zootopia 2 (2026)
 https://1a-1791.com/video/fww1/4a/s8/2/G/S/B/4/GSB4z.aaa.mp4
@@ -330,7 +311,6 @@ https://1a-1791.com/video/fwe2/94/s8/2/g/i/4/b/gi4bx.aaa.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/np3Sezw.jpeg" group-title="INFANTIL",Mufasa: El rey león (2024)
 https://1a-1791.com/video/fwe2/cf/s8/2/U/n/P/o/UnPoy.aaa.mp4
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/95Ukerw.jpeg" group-title="INFANTIL",Moana 2 (2024)
 https://1a-1791.com/video/fwe2/a6/s8/2/L/k/v/T/LkvTx.aaa.mp4
 
@@ -342,15 +322,6 @@ https://dl.dropbox.com/scl/fi/u04myu19d2bwuvc19wlxu/PS3MOVIE-..mp4?rlkey=pqp4k0a
 
 #EXTINF:-1 tvg-logo="https" group-title="INFANTIL",Coco (2024)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/201174.mkv
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uXkpoKy.jpeg" group-title="EL ENCARGADO 4",Episodio 1 (2026)
 https://archive.org/download/fisica-4-7/fisica%204%20%281%29.mkv
@@ -373,33 +344,26 @@ https://archive.org/download/fisica-4-7/fisica%204%20%286%29.mkv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uXkpoKy.jpeg" group-title="EL ENCARGADO 4",Episodio 7 (2026)
 https://archive.org/download/fisica-4-7/fisica%204%20%287%29.mkv
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/oRtmSBegijsysFcA5Kwn2WmMdL4.jpg" group-title="ROMINA",Ahí afuera 
-http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/317504.mp4
+https://rumble.com/hls-vod/79gaew/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/gtkiSQJfkruQHN8qrAqRGkeVmzv.jpg" group-title="ROMINA",Almas pasajeras 
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/438608.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="DOS FAMILIAS",Dos familias | episodio 1 (2025)
+
+
+
+#EXTINF:-1 tvg-name="DOS FAMILIAS"  tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="SERIE",Dos familias | episodio 1 (2025)
 http://series.tuxchannel.mx/series/playing_nice/s_01_e_01.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="DOS FAMILIAS",Dos familias | episodio 2 (2025)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="SERIE",Dos familias | episodio 2 (2025)
 http://series.tuxchannel.mx/series/playing_nice/s_01_e_02.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="DOS FAMILIAS",Dos familias | episodio 3 (2025)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="SERIE",Dos familias | episodio 3 (2025)
 http://series.tuxchannel.mx/series/playing_nice/s_01_e_03.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="DOS FAMILIAS",Dos familias | episodio 4 (2025)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="SERIE",Dos familias | episodio 4 (2025)
 http://series.tuxchannel.mx/series/playing_nice/s_01_e_04.mkv
-
-
-
 
 
 
@@ -435,13 +399,6 @@ http://edcag.3r6q3i8w.com:80/vod/FC3A9AD2B98145DDB6D73838C131A8C2_media.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="ENVIDIOSA 4",Episodio 10 (2026)
 http://edcag.3r6q3i8w.com:80/vod/A1597037304840BFBDA699D9C554D9AA_media.mp4
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mmaz5PH.jpeg" group-title="EL RESTO BIEN",Episodio 1 (2026)
 http://edcag.3r6q3i8w.com:80/vod/E2EE1108F6FE41DCAB17E3B23BEADB62_media.mp4
 
@@ -467,3 +424,11 @@ http://edcag.3r6q3i8w.com:80/vod/8AE02F1522EF46098954A60AAE42435E_media.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mmaz5PH.jpeg" group-title="EL RESTO BIEN",Episodio 8 (2026)
 http://edcag.3r6q3i8w.com:80/vod/8D1664748F7A4127B0C7420088C59038_media.mp4
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="The Last of Us S01E01" group-title="SERIE",The Last of Us S01E01
+http://servidor.com/tlou/s1e1.mp4
