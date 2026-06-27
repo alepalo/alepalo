@@ -10,7 +10,7 @@ https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 http://200.112.174.230/mtcast_canal9hd/mpegts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="TV", Telefe
-http://200.112.174.230/mtcast_telefehd/mpegts
+http://go:TELEFE
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="TV", El Trece 
 http://200.112.174.230/mtcast_eltrecehd/mpegts
