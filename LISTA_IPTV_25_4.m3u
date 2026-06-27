@@ -252,6 +252,10 @@ https://dl.dropbox.com/scl/fi/8unhr9q8biyz5bmd2rimu/fisica.mp4?rlkey=2tqa6artmf0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cKmgErt.jpeg" group-title="DRAMA",El cuerpo (2012)
 https://1a-1791.com/video/fww1/ff/s8/2/O/j/N/g/OjNgA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1778130432-1778198015
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/gtkiSQJfkruQHN8qrAqRGkeVmzv.jpg" group-title="DRAMA",Almas pasajeras 
+http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/438608.mp4
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TD3xVwX.jpeg" group-title="COMEDIA",Otro viernes de locos (2025)
 https://rumble.com/hls-vod/78801a/playlist.m3u8?u=0&b=0
 
@@ -264,8 +268,12 @@ https://rumble.com/hls-vod/76gywm/playlist.m3u8?u=0&b=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w8HA2Fx.jpeg" group-title="TERROR",El conjuro 4: Los últimos ritos (2025)
 https://1a-1791.com/video/fww1/64/s8/2/M/a/x/z/Maxzz.aaa.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/oRtmSBegijsysFcA5Kwn2WmMdL4.jpg" group-title="TERROR",Ahí afuera 
+https://rumble.com/hls-vod/79gaew/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a73ReDC.jpeg" group-title="ROMANCE",No te olvidaré (2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/426180.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ckT11Za.jpeg" group-title="ROMANCE",Romper el círculo (2025)
 https://hugh.cdn.rumble.cloud/video/s8/2/Z/B/O/q/ZBOqt.aaa.mp4
 
@@ -341,7 +349,6 @@ https://archive.org/download/fisica-4-7/fisica%204%20%283%29.mkv
 
 #EXTINF:-1 tvg-id=""  tvg-name="El encargado - S04E04"  tvg-logo="https://image.tmdb.org/t/p/w300/41SlC4xbNhYkuaGCo62fxYfNXQ7.jpg" group-title="SERIES",El encargado - S04E04
 https://archive.org/download/fisica-4-7/fisica%204%20%284%29.mkv
-
 #EXTINF:-1 tvg-id=""  tvg-name="El encargado - S04E05"  tvg-logo="https://image.tmdb.org/t/p/w300/41SlC4xbNhYkuaGCo62fxYfNXQ7.jpg" group-title="SERIES",El encargado - S04E05
 https://archive.org/download/fisica-4-7/fisica%204%20%285%29.mkv
 
@@ -375,15 +382,8 @@ http://series.tuxchannel.mx/series/playing_nice/s_01_e_04.mkv
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/oRtmSBegijsysFcA5Kwn2WmMdL4.jpg" group-title="ROMINA",Ahí afuera 
-https://rumble.com/hls-vod/79gaew/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/gtkiSQJfkruQHN8qrAqRGkeVmzv.jpg" group-title="ROMINA",Almas pasajeras 
-http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/438608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El eternauta - S01E01"  tvg-logo="https://image.tmdb.org/t/p/w300/9Krv5NvKa5a3Q3b1l2B3rP9Bj8E.jpg" group-title="SERIES", El eternauta - S01E01
+http://series.tuxchannel.mx/series/the_eternaut/s_01_e_04.mkv
 
 
 
@@ -391,8 +391,16 @@ http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/438608.mp4
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Viudas negras - S01E01"  tvg-logo="https://image.tmdb.org/t/p/w300/oRoBbzAUqV9ozdogQNvOpwj7M2y.jpg" group-title="SERIES", Viudas negras - S01E01
+http://series.tuxchannel.mx/series/the_eternaut/s_01_e_04.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="ENVIDIOSA 4",Episodio 1 (2026)
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Envidiosa - S04E01"  tvg-logo="https://image.tmdb.org/t/p/w300/jx9j67VSSQA8ng3cbNrQPlZWbjS.jpg" group-title="SERIES",Envidiosa - S04E01
 http://edcag.3r6q3i8w.com:80/vod/80D6AA5E4BE44DBE87C1999031B32C43_media.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V2eyJwi.jpeg" group-title="ENVIDIOSA 4",Episodio 2 (2026)
