@@ -7,7 +7,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 http://playcom.trapemn.tv:1935/transcoderip/tvpublica.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" group-title="TV", Canal 9 
-http://velive.lat:8080/live/az6n98/frt56c/272040.ts
+http://velive.lat:8080/live/az6n98/frt56c/272040
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="TV", Telefe
 http://velive.lat:8080/live/az6n98/frt56c/272043.ts
@@ -396,7 +396,22 @@ http://series.tuxchannel.mx/series/playing_nice/s_01_e_04.mkv
 
 
 #EXTINF:-1 tvg-id="" tvg-name="El eternauta - S01E01"  tvg-logo="https://image.tmdb.org/t/p/w300/9Krv5NvKa5a3Q3b1l2B3rP9Bj8E.jpg" group-title="SERIES", El eternauta - S01E01
+http://series.tuxchannel.mx/series/the_eternaut/s_01_e_01.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="El eternauta - S01E02"  tvg-logo="https://image.tmdb.org/t/p/w300/9Krv5NvKa5a3Q3b1l2B3rP9Bj8E.jpg" group-title="SERIES", El eternauta - S01E02
+http://series.tuxchannel.mx/series/the_eternaut/s_01_e_02.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="El eternauta - S01E03"  tvg-logo="https://image.tmdb.org/t/p/w300/9Krv5NvKa5a3Q3b1l2B3rP9Bj8E.jpg" group-title="SERIES", El eternauta - S01E03
+http://series.tuxchannel.mx/series/the_eternaut/s_01_e_03.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="El eternauta - S01E04"  tvg-logo="https://image.tmdb.org/t/p/w300/9Krv5NvKa5a3Q3b1l2B3rP9Bj8E.jpg" group-title="SERIES", El eternauta - S01E04
 http://series.tuxchannel.mx/series/the_eternaut/s_01_e_04.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="El eternauta - S01E05"  tvg-logo="https://image.tmdb.org/t/p/w300/9Krv5NvKa5a3Q3b1l2B3rP9Bj8E.jpg" group-title="SERIES", El eternauta - S01E05
+http://series.tuxchannel.mx/series/the_eternaut/s_01_e_05.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="El eternauta - S01E06"  tvg-logo="https://image.tmdb.org/t/p/w300/9Krv5NvKa5a3Q3b1l2B3rP9Bj8E.jpg" group-title="SERIES", El eternauta - S01E06
+http://series.tuxchannel.mx/series/the_eternaut/s_01_e_06.mkv
 
 
 
@@ -405,7 +420,28 @@ http://series.tuxchannel.mx/series/the_eternaut/s_01_e_04.mkv
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Viudas negras - S01E01"  tvg-logo="https://image.tmdb.org/t/p/w300/oRoBbzAUqV9ozdogQNvOpwj7M2y.jpg" group-title="SERIES", Viudas negras - S01E01
-http://series.tuxchannel.mx/series/the_eternaut/s_01_e_04.mkv
+https://archive.org/download/matematica-3/matematica%20%281%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Viudas negras - S01E02"  tvg-logo="https://image.tmdb.org/t/p/w300/oRoBbzAUqV9ozdogQNvOpwj7M2y.jpg" group-title="SERIES", Viudas negras - S01E02
+https://archive.org/download/matematica-3/matematica%20%282%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Viudas negras - S01E03"  tvg-logo="https://image.tmdb.org/t/p/w300/oRoBbzAUqV9ozdogQNvOpwj7M2y.jpg" group-title="SERIES", Viudas negras - S01E03
+https://archive.org/download/matematica-3/matematica%20%283%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Viudas negras - S01E04"  tvg-logo="https://image.tmdb.org/t/p/w300/oRoBbzAUqV9ozdogQNvOpwj7M2y.jpg" group-title="SERIES", Viudas negras - S01E04
+https://archive.org/download/matematica-3/matematica%20%284%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Viudas negras - S01E05"  tvg-logo="https://image.tmdb.org/t/p/w300/oRoBbzAUqV9ozdogQNvOpwj7M2y.jpg" group-title="SERIES", Viudas negras - S01E05
+https://archive.org/download/matematica-3/matematica%20%285%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Viudas negras - S01E06"  tvg-logo="https://image.tmdb.org/t/p/w300/oRoBbzAUqV9ozdogQNvOpwj7M2y.jpg" group-title="SERIES", Viudas negras - S01E06
+https://archive.org/download/matematica-3/matematica%20%286%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Viudas negras - S01E07"  tvg-logo="https://image.tmdb.org/t/p/w300/oRoBbzAUqV9ozdogQNvOpwj7M2y.jpg" group-title="SERIES", Viudas negras - S01E07
+https://archive.org/download/matematica-3/matematica%20%287%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Viudas negras - S01E08"  tvg-logo="https://image.tmdb.org/t/p/w300/oRoBbzAUqV9ozdogQNvOpwj7M2y.jpg" group-title="SERIES", Viudas negras - S01E08
+https://archive.org/download/matematica-3/matematica%20%288%29.mp4
 
 
 
