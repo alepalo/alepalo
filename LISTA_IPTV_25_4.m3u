@@ -4,7 +4,6 @@
 #========================================================  T E L E V I S I O N  ==========================================================================
 
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="TV", XXXX
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="TV", América Tv 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
