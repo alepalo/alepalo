@@ -194,7 +194,8 @@ https://unlimited1-saopaulo.dps.live/carastv/carastv.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/cinear@2x.png" group-title="TV", Cinear
-http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-19.playlist.m3u8
+
+https://joy.nx.pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm_480p/index.m3u8
 
 
 
@@ -203,11 +204,7 @@ http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-19.playl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sFLcJR4.png" group-title="TV", Encuentro 
 
 
-http://181.13.252.102:8000/play/a01m/index.m3u8
-
-
-
-
+https://joy.nx.pc.edge-apps.net/hls/9bh05-pfjmo-a54l8-a4hgk.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="TV", Volver
 
@@ -220,8 +217,8 @@ http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/272049.ts
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/pakapaka.png" group-title="TV", Paka Paka
 
 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-36_400.m3u8
 
+https://joy.nx.pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9.m3u8
 
 
 
@@ -236,11 +233,7 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/deportv%20128.png" group-title="TV",DeporTv 
 
 
-http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/272074.ts
-
-
-
-
+https://joy.nx.pc.edge-apps.net/hls/e1okh-afcc2-ejm6-h8gdj_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/LatinaTV-4k-128.png" group-title="TV", TyC Sports
 
