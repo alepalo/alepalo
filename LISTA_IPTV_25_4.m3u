@@ -1,40 +1,56 @@
 #EXTM3U
 
 
+
+
+
 #========================================================  T E L E V I S I O N  ==========================================================================
+
+
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="TV", América Tv 
 
+
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png" group-title="TV", Tv Pública 
+
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/tvpublica@2x.png" group-title="TV", Tv Pública 
+
 
 http://playcom.trapemn.tv:1935/transcoderip/tvpublica.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" group-title="TV", Canal 9 
 
-http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/272040.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="TV", Telefe
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/elnuevehd@2x.png" group-title="TV", Canal 9 
 
-http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/272043.ts
+
+http://190.7.19.197:232/play/a03k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/telefe@2x.png" group-title="TV", Telefe
+
+
+http://190.7.19.197:232/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="TV", El Trece 
 
-http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/272044.ts
 
-
+https://joy.nx.pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/5miXpvS.png" group-title="TV", Todo Noticias 
 
+
 http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8
+
+
 
 
 
@@ -44,104 +60,152 @@ http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/272048.ts
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="TV", C5N
+
 
 http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/272077.ts
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="TV", A24 
+
 
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="TV", 26Tv 
+
 
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/8GfFTZA.png" group-title="TV", Crónica Tv 
 
-http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/272054.ts
 
-
+https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2025/11/Arg-12.jpg" group-title="TV", Ar|12 
+
 https://nameless-resonance-f644.javimarki.workers.dev/3
+
+
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM9EoFL.png" group-title="TV", Telemax
 
+
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7U2uKzY.png" group-title="TV", Canal de la Ciudad
 
+
 https://g5.vxral-hor.transport.edge-access.net:443/a06/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p/index.m3u8
+
+
 
 
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/Latinatv%20128.png" group-title="TV", Latina Tv 
 
+
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mRoEjBK.png" group-title="TV",  Musictop 
+
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/musictop@2x.png" group-title="TV",  Musictop 
+
 
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/tierramia@2x.png" group-title="TV", Tierramia 
+
 
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ArE9DFC.png" group-title="TV", Canal de la música 
+
 
 https://g4.mc-hor.transport.edge-access.net:443/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XdRYesx.png" group-title="TV", Quiero música 
+
 
 http://181.13.252.102:8000/play/a02n/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https" group-title="TV", Radio Mega
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pEzSoTtQr8gL_udLtIEzmCPDlIRPN5kdqzNdcTPfbQs9NMnQJ6AdJ2YQx9Ru_PZi3isu6qH6Ktq5fGBRbWwFNFU=w240-h480-rw" 
+
+group-title="TV", Radio Mega
+
 
 https://stream.arcast.com.ar/la90fm/la90fm/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t4KaKJL.png" group-title="TV", Radio La 100
+
 
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https" group-title="TV", Caras Tv
+
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/caras-128.png" group-title="TV", Caras Tv
+
 
 https://unlimited1-saopaulo.dps.live/carastv/carastv.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MmBGAnc.png" group-title="TV", Cinear 
 
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/cinear@2x.png" group-title="TV", Cinear
 http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-19.playlist.m3u8
+
+
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sFLcJR4.png" group-title="TV", Encuentro 
 
+
 http://181.13.252.102:8000/play/a01m/index.m3u8
+
+
 
 
 
@@ -151,9 +215,14 @@ http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/272049.ts
 
 
 
-#EXTINF:-1 tvg-logo="https" group-title="TV", Paka Paka
+
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/pakapaka.png" group-title="TV", Paka Paka
+
 
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-36_400.m3u8
+
+
 
 
 
@@ -162,15 +231,23 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/deportv%20128.png" group-title="TV",DeporTv 
+
 
 http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/272074.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="TV", TyC Sports
+
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/LatinaTV-4k-128.png" group-title="TV", TyC Sports
+
 
 http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/273599.ts
+
+
 
 
 
@@ -180,20 +257,32 @@ http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/273599.ts
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="TV", ESPN Premium
 http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/273602.ts
 
 
 
-#EXTINF:-1 tvg-logo="https" group-title="TV", ESPN 1
+
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/logo%20espn%20128x128.png" group-title="TV", ESPN 1
+
 
 http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/273604.ts
 
 
 
-#EXTINF:-1 tvg-logo="https" group-title="TV", Dsports
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FhSdYd1WAAE8b5R.jpg" group-title="TV", Dsports
+
 
 http://miotv.cc:8080/RESTREAMCRUEL/T7464747/316095.ts
+
+
+
+
 
 
 
@@ -201,23 +290,32 @@ http://miotv.cc:8080/RESTREAMCRUEL/T7464747/316095.ts
 #========================================================  A C C I O N  ===============================================================================
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/Awvlydvag364audeksfRFldVslq.jpg" group-title="ACCIÓN", Instinto implacable (2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/439394.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/miotpWL3RXeTvLJnkhaoWcbXvJf.jpg" group-title="ACCIÓN", Caminos del crimen (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/miotpWL3RXeTvLJnkhaoWcbXvJf.jpg" group-title="ACCIÓN", 
+
+Caminos del crimen (2026)
 
 https://1a-1791.com/video/fww1/84/s8/2/-/7/J/b/-7JbA.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/7wiq6ld0p7AeWFlZsnXZfNKXIB2.jpg" group-title="ACCIÓN", Jack Ryan:  (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/7wiq6ld0p7AeWFlZsnXZfNKXIB2.jpg" group-
+
+title="ACCIÓN", Jack Ryan:  (2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/437753.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="ACCIÓN", Mortal combat (2026)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="ACCIÓN", Mortal combat (2026)
 
 https://hugh.cdn.rumble.cloud/video/fww1/c9/s8/2/g/Q/Y/v/gQYvA.aaa.mp4
 
@@ -225,63 +323,87 @@ https://hugh.cdn.rumble.cloud/video/fww1/c9/s8/2/g/Q/Y/v/gQYvA.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/e4P0lkcHgsBJgWSvLV3ezGZYDUU.jpg" group-title="ACCIÓN", ÁPEX (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/e4P0lkcHgsBJgWSvLV3ezGZYDUU.jpg" group-title="ACCIÓN", 
+
+ÁPEX (2026)
 https://hugh.cdn.rumble.cloud/video/fww1/79/s8/2/Y/R/e/t/YRetA.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/e4P0lkcHgsBJgWSvLV3ezGZYDUU.jpg" group-title="ACCIÓN", Proyecto fin del mundo (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/e4P0lkcHgsBJgWSvLV3ezGZYDUU.jpg" group-
+
+title="ACCIÓN", Proyecto fin del mundo (2026)
 https://hugh.cdn.rumble.cloud/video/fwe2/c6/s8/2/O/H/c/q/OHcqA.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/j1knvM0CSG1TWWEdgz4AVqb5CXP.jpg" group-title="ACCIÓN", El guardian: último recurso (2026)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/j1knvM0CSG1TWWEdgz4AVqb5CXP.jpg" group-title="ACCIÓN", El guardian: último recurso (2026)
 https://hugh.cdn.rumble.cloud/video/fwe2/c6/s8/2/O/H/c/q/OHcqA.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/5C18uOTbDZRvVIZcVRO747k2fUi.jpg" group-title="ACCIÓN", Máquina de guerra (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/5C18uOTbDZRvVIZcVRO747k2fUi.jpg" group-title="ACCIÓN", 
+
+Máquina de guerra (2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/411699.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ptaC34FlXJE24r2tmwN51rCz6qQ.jpg" group-title="ACCIÓN", Greenland 2: Migración (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ptaC34FlXJE24r2tmwN51rCz6qQ.jpg" 
+
+group-title="ACCIÓN", Greenland 2: Migración (2026)
 
 https://1a-1791.com/video/fwe2/d9/s8/2/8/D/K/-/8DK-z.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ttEESBvVrO8ngZr19qp6eBMVS9F.jpg" group-title="ACCIÓN",  Equipo demolición (2026)
+#EXTINF:-1 tvg-
 
-https://1a-1791.com/video/fwe2/a7/s8/2/K/e/H/U/KeHUz.aaa.mp4
+logo="https://image.tmdb.org/t/p/w300/ttEESBvVrO8ngZr19qp6eBMVS9F.jpg" group-title="ACCIÓN",  Equipo demolición (2026)
+
+https://1a-
+
+1791.com/video/fwe2/a7/s8/2/K/e/H/U/KeHUz.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/9vDyZhKmUv3YkicH949o1jGOx97.jpg" group-title="ACCIÓN",  Jefes de estado (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/9vDyZhKmUv3YkicH949o1jGOx97.jpg" group-title="ACCIÓN",  Jefes de estado 
+
+(2026)
 
 https://1a-1791.com/video/fww1/24/s8/2/C/K/G/b/CKGbA.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/vHtH4xdcTbaCVftGwaeGFHfOB3p.jpg" group-title="ACCIÓN", Avatar 3: Fuego y cenizas (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/vHtH4xdcTbaCVftGwaeGFHfOB3p.jpg" group-title="ACCIÓN", 
+
+Avatar 3: Fuego y cenizas (2025)
 
 https://1a-1791.com/video/fww1/a2/s8/2/y/S/9/a/yS9aA.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/4go0vKTZOtvnzc2Tfr0p4K6Qoy6.jpg" group-title="ACCIÓN",  Riesgo bajo cero: venganza (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/4go0vKTZOtvnzc2Tfr0p4K6Qoy6.jpg" 
+
+group-title="ACCIÓN",  Riesgo bajo cero: venganza (2025)
 
 https://1a-1791.com/video/fwe2/5e/s8/2/2/R/5/Y/2R5Yz.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/xihssRPgRDZ7xwIjx3xuPTnqPfU.jpg" group-title="ACCIÓN",  G20 (2025)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/xihssRPgRDZ7xwIjx3xuPTnqPfU.jpg" group-title="ACCIÓN",  G20 (2025)
 
 https://1a-1791.com/video/fww1/4f/s8/2/P/W/s/W/PWsWy.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/AoXAvZDxcym6oONBvJ82tFjEGdY.jpg" group-title="ACCIÓN",  Bala perdida 3 (2024)
+#EXTINF:-1 
+
+tvg-logo="https://image.tmdb.org/t/p/w300/AoXAvZDxcym6oONBvJ82tFjEGdY.jpg" group-title="ACCIÓN",  Bala perdida 3 (2024)
 
 https://1a-1791.com/video/fww1/14/s8/2/P/K/B/I/PKBIy.aaa.mp4
 
@@ -289,23 +411,31 @@ https://1a-1791.com/video/fww1/14/s8/2/P/K/B/I/PKBIy.aaa.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/4VZOPGFq4QQsOMz51klXJMgQUUJ.jpg" group-title="ACCIÓN",  El último encargo (2024)
 
-https://1a-1791.com/video/fwe2/7d/s8/2/M/X/2/-/MX2-z.aaa.mp4
+https://1a-
+
+1791.com/video/fwe2/7d/s8/2/M/X/2/-/MX2-z.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/bTYbNWz4kI1P3GzEVvWZwyZT7Uv.jpg" group-title="ACCIÓN", Extraterritorial (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/bTYbNWz4kI1P3GzEVvWZwyZT7Uv.jpg" group-title="ACCIÓN", Extraterritorial 
+
+(2024)
 
 https://1a-1791.com/video/fww1/f5/s8/2/x/T/G/H/xTGHy.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/70Na5MXfOsFlJvoX6oKYAwOhNN9.jpg" group-title="ACCIÓN", Juego sucio (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/70Na5MXfOsFlJvoX6oKYAwOhNN9.jpg" group-title="ACCIÓN", 
+
+Juego sucio (2024)
 
 https://1a-1791.com/video/fww1/20/s8/2/-/z/U/7/-zU7z.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/y80qIpEmqFAHlqzgkbo0wOgxIyS.jpg" group-title="ACCIÓN", Estado eléctrico (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/y80qIpEmqFAHlqzgkbo0wOgxIyS.jpg" group-
+
+title="ACCIÓN", Estado eléctrico (2024)
 
 https://archive.org/download/31-r-0b-0-p-3rf-3c-70-2-pn-73r-4-2025.1080/3574d0_313ctr1c0_2025.1080..mp4
 
@@ -318,46 +448,64 @@ http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/442654.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ld4qJIbe5uYpadtqhxdv7A4173B.jpg" group-title="DRAMA", Alta costura (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ld4qJIbe5uYpadtqhxdv7A4173B.jpg" group-title="DRAMA", Alta 
+
+costura (2026)
 https://hugh.cdn.rumble.cloud/video/fww1/3c/s8/2/A/b/_/u/Ab_uA.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/wrjKPBd4ieJMSxO7n5GothE9WAB.jpg" group-title="DRAMA", La desconocida
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/wrjKPBd4ieJMSxO7n5GothE9WAB.jpg" group-
+
+title="DRAMA", La desconocida
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/442209.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/c3nGfcX5o0n5zLlHNKQVfap3QdQ.jpg" group-title="DRAMA", Sobre tu cadáver (2026)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/c3nGfcX5o0n5zLlHNKQVfap3QdQ.jpg" group-title="DRAMA", Sobre tu cadáver (2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/442192.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg" group-title="DRAMA", El diablo viste a la moda 2 (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg" group-title="DRAMA", El 
+
+diablo viste a la moda 2 (2026)
 
 https://1a-1791.com/video/fww1/e5/s8/2/I/q/G/3/IqG3z.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/cyASW7irDybUePt5Lv5SeMoNs7c.jpg" group-title="DRAMA", Los colores de mal: negro (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/cyASW7irDybUePt5Lv5SeMoNs7c.jpg" 
+
+group-title="DRAMA", Los colores de mal: negro (2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/XXXX.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/klf2szDlHckM9AXVcL8mSJjeYQ6.jpg" group-title="DRAMA", Michael Jackson (2026)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/klf2szDlHckM9AXVcL8mSJjeYQ6.jpg" group-title="DRAMA", Michael Jackson (2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/442216.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/3d5BPSr0TxLNJAvPsV0lXZiA0dZ.jpg" group-title="DRAMA",La chica del perdón (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/3d5BPSr0TxLNJAvPsV0lXZiA0dZ.jpg" group-title="DRAMA",La 
+
+chica del perdón (2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/442184.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/aNixJoh0U4kN85YM6vPyVZL6ALF.jpg" group-title="DRAMA",Criaturas luminosas (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/aNixJoh0U4kN85YM6vPyVZL6ALF.jpg" 
+
+group-title="DRAMA",Criaturas luminosas (2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/437070.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8gvXwGWQ8vXEeKDnIIXhfZvIxzm.jpg" group-title="DRAMA", ¡Ayuda! (2026)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/8gvXwGWQ8vXEeKDnIIXhfZvIxzm.jpg" group-title="DRAMA", ¡Ayuda! (2026)
 
 https://1a-1791.com/video/fww1/38/s8/2/W/X/8/-/WX8-z.aaa.mp4'
 
@@ -367,25 +515,33 @@ http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/412526.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/kCb3QJNLi0alrk7i5aCphkkuoFl.jpg" group-title="DRAMA", Cumbres borrascosas (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/kCb3QJNLi0alrk7i5aCphkkuoFl.jpg" group-title="DRAMA", 
+
+Cumbres borrascosas (2026)
 
 https://1a-1791.com/video/fww1/bd/s8/2/k/o/7/a/ko7aA.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/x8ygUQ4YNd8iy0oEusS1bHI08A6.jpg" group-title="DRAMA",La empleada (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/x8ygUQ4YNd8iy0oEusS1bHI08A6.jpg" 
+
+group-title="DRAMA",La empleada (2026)
 https://hugh.cdn.rumble.cloud/video/fww1/98/s8/2/0/k/9/1/0k91z.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/jZotw09ibvIWrijiKjJfcNSuZlo.jpg" group-title="DRAMA",Acusada (2026)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/jZotw09ibvIWrijiKjJfcNSuZlo.jpg" group-title="DRAMA",Acusada (2026)
 https://hugh.cdn.rumble.cloud/video/fwe2/de/s8/2/6/U/D/3/6UD3z.aaa.mp4
 
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/jpUFowlZitohC06voHrIyDAPVZ5.jpg" group-title="DRAMA",Amores materialistas (2026)
 
-https://1a-1791.com/video/fwe2/ed/s8/2/0/U/N/-/0UN-z.aaa.mp4
+https://1a-
+
+1791.com/video/fwe2/ed/s8/2/0/U/N/-/0UN-z.aaa.mp4
 
 
 
@@ -395,23 +551,31 @@ https://1a-1791.com/video/fww1/1c/s8/2/r/i/t/A/ritAy.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8GxazBs1iKffJHAdeyhD9jS1aOz.jpg"group-title="DRAMA",Jurado Nro. 2 (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8GxazBs1iKffJHAdeyhD9jS1aOz.jpg"group-title="DRAMA",Jurado Nro. 2 
+
+(2025)
 https://1a-1791.com/video/fwe1/5b/s8/2/T/8/N/a/T8Naw.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/epEorIcbWjuLqd4dgRWYffpazIR.jpg" group-title="DRAMA",Invencible (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/epEorIcbWjuLqd4dgRWYffpazIR.jpg" group-
+
+title="DRAMA",Invencible (2024)
 
 https://1a-1791.com/video/fwe2/d0/s8/2/K/s/z/6/Ksz6z.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/eI6TdYgT8kLe1vSOYNbqitAn5yp.jpg" group-title="DRAMA",Infiltrada en el bunker (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/eI6TdYgT8kLe1vSOYNbqitAn5yp.jpg" 
+
+group-title="DRAMA",Infiltrada en el bunker (2024)
 https://hugh.cdn.rumble.cloud/video/fww1/0e/s8/2/H/6/L/X/H6LXy.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/6Vfb3yrh8erMVlea5JbvbYohelU.jpg" group-title="DRAMA",Vertigo (2024)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/6Vfb3yrh8erMVlea5JbvbYohelU.jpg" group-title="DRAMA",Vertigo (2024)
 https://hugh.cdn.rumble.cloud/video/fwe2/1d/s8/2/C/J/y/t/CJytA.aaa.mp4
 
 
@@ -421,51 +585,73 @@ http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/296852.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/szmeCcSEzTdCjJiPhto0D9MGGbl.jpg" group-title="DRAMA",La razón de estar contigo (2017)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/szmeCcSEzTdCjJiPhto0D9MGGbl.jpg" group-title="DRAMA",La 
+
+razón de estar contigo (2017)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/197471.mkv
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/mUgzf27luTXvxrzH0jKgSNPwhMC.jpg" group-title="DRAMA",Almas pasajeras (2008)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/mUgzf27luTXvxrzH0jKgSNPwhMC.jpg" group-title="DRAMA",Almas pasajeras (2008)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/438608.mp4
 
 
-#========================================================  C O M E D I A  =============================================================================
+#========================================================  C O M E D I A  
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/s8mudAYQcHmVoFSamqyv1Ron527.jpg" group-title="COMEDIA",Hermanito (2026)
+=============================================================================
+
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/s8mudAYQcHmVoFSamqyv1Ron527.jpg" group-title="COMEDIA",Hermanito (2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/444316.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qhGf7btEU9hcGz3A0lneNptJKL7.jpg" group-title="COMEDIA",Scary Movie 6 (CAM - 2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qhGf7btEU9hcGz3A0lneNptJKL7.jpg" group-
+
+title="COMEDIA",Scary Movie 6 (CAM - 2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/443068.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/4D2Mj3oyCx9PsYl8GPv0O0rIprt.jpg" group-title="COMEDIA",Me llamo Agneta (2026)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/4D2Mj3oyCx9PsYl8GPv0O0rIprt.jpg" group-title="COMEDIA",Me llamo Agneta (2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/433815.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/u1BtVskISOpuoPq10IkyZF2kbq9.jpg" group-title="COMEDIA",Compañeras de cuarto (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/u1BtVskISOpuoPq10IkyZF2kbq9.jpg" group-
+
+title="COMEDIA",Compañeras de cuarto (2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/429237.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/zuiZDJcjlNWB6EcXHer06u9BQke.jpg" group-title="COMEDIA",Una familia de bastardos (2026)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/zuiZDJcjlNWB6EcXHer06u9BQke.jpg" group-title="COMEDIA",Una familia de bastardos (2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/443682.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/hJns8cKWsj77tkjiXQoXIGJ1H1d.jpg" group-title="COMEDIA",Alerta extinción (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/hJns8cKWsj77tkjiXQoXIGJ1H1d.jpg" group-
+
+title="COMEDIA",Alerta extinción (2026)
 
 https://1a-1791.com/video/fww1/35/s8/2/Q/n/j/g/QnjgA.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/9bxYsc9GegAcqt0egBdXaS1mMmw.jpg" group-title="COMEDIA",¡Uff! solo amigos (2026)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/9bxYsc9GegAcqt0egBdXaS1mMmw.jpg" group-title="COMEDIA",¡Uff! solo amigos (2026)
 https://dl.dropbox.com/scl/fi/6d5bkqstqawgr516or37z/sociales.mp4?rlkey=x86rkl56zndw9xcmiol4kwdp4&st=vd6e2gth&dl=1
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/t2TGpdDQ02Ek4LYd0yo164y5rWw.jpg" group-title="COMEDIA",Solos (2026)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/t2TGpdDQ02Ek4LYd0yo164y5rWw.jpg" group-title="COMEDIA",Solos (2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/442199.mp4
 
 
@@ -475,29 +661,39 @@ http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/436538.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/tuAGDBfrVNjcmyObU79lbwMLqJz.jpg" group-title="COMEDIA",Familia a la deriva (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/tuAGDBfrVNjcmyObU79lbwMLqJz.jpg" group-
+
+title="COMEDIA",Familia a la deriva (2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/433812.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/sqp4urYCbmSRbMYRt4SSb7oRQGJ.jpg" group-title="COMEDIA",Otro viernes de locos (2025)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/sqp4urYCbmSRbMYRt4SSb7oRQGJ.jpg" group-title="COMEDIA",Otro viernes de locos (2025)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/430695.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/5RM9cbIQfrtYYSbb6KEL4bo8JYj.jpg" group-title="COMEDIA",¿y donde está el policía? (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/5RM9cbIQfrtYYSbb6KEL4bo8JYj.jpg" group-title="COMEDIA",¿y 
+
+donde está el policía? (2025)
 
 https://1a-1791.com/video/fww1/35/s8/2/U/b/Z/e/UbZez.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/pZr2QCUbsekpiLnZ7788twcLpSn.jpg" group-title="COMEDIA",Otro pequeño favor (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/pZr2QCUbsekpiLnZ7788twcLpSn.jpg" 
+
+group-title="COMEDIA",Otro pequeño favor (2025)
 
 https://1a-1791.com/video/fwe2/a1/s8/2/A/6/f/c/A6fcA.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8pEtr2o1aZEIyDaYDZgjbADNL4E.jpg" group-title="COMEDIA",Terminagolf 2 (2025)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/8pEtr2o1aZEIyDaYDZgjbADNL4E.jpg" group-title="COMEDIA",Terminagolf 2 (2025)
 
 https://1a-1791.com/video/fwe2/01/s8/2/c/h/Y/_/chY_z.aaa.mp4
 
@@ -505,58 +701,94 @@ https://1a-1791.com/video/fwe2/01/s8/2/c/h/Y/_/chY_z.aaa.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/6PbSSN2BT22ZMsMaD7m8cGaqk3L.jpg" group-title="COMEDIA",Loco por ella (2025)
 
-https://1a-1791.com/video/fww1/e0/s8/2/t/-/U/V/t-UVy.aaa.mp4
+https://1a-
+
+1791.com/video/fww1/e0/s8/2/t/-/U/V/t-UVy.aaa.mp4
 
 
-#========================================================  T E R R O R  =============================================================================
+#========================================================  T E R R O R  
+
+=============================================================================
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/aOzZYdjeAc3HJLt6R7yFcSHn39I.jpg" group-title="TERROR", Backroom (CAM - 2026)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/aOzZYdjeAc3HJLt6R7yFcSHn39I.jpg" group-title="TERROR", Backroom (CAM - 2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/442212.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg" group-title="TERROR", Obsesión (CAM - 2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg" group-title="TERROR", 
+
+Obsesión (CAM - 2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/443701.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/evDvchrDRS2i9jKcLJpixSLjx45.jpg" group-title="TERROR", El susurro (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/evDvchrDRS2i9jKcLJpixSLjx45.jpg" 
+
+group-title="TERROR", El susurro (2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/442194.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/4nMIuF7AnBCA2kEOdZ4t7f2GF10.jpg" group-title="TERROR", Te van a matar (2026)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/4nMIuF7AnBCA2kEOdZ4t7f2GF10.jpg" group-title="TERROR", Te van a matar (2026)
 https://hugh.cdn.rumble.cloud/video/fwe2/94/s8/2/o/E/y/x/oEyxA.aaa.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/thRJXNSUsqSNJALSKmXYNWSijB5.jpg" group-title="TERROR", Hokum (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/thRJXNSUsqSNJALSKmXYNWSijB5.jpg" group-
+
+title="TERROR", Hokum (2026)
 https://hugh.cdn.rumble.cloud/video/fwe2/b1/s8/2/k/S/F/z/kSFzA.aaa.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/cyASW7irDybUePt5Lv5SeMoNs7c.jpg" group-title="TERROR", Los colores del mal (2026)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/cyASW7irDybUePt5Lv5SeMoNs7c.jpg" group-title="TERROR", Los colores del mal (2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/442649.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/cwUGHWaazG1nwsxsa7EEmvJa6lF.jpg" group-title="TERROR", Enterramos a los muertos (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/cwUGHWaazG1nwsxsa7EEmvJa6lF.jpg" group-title="TERROR", 
+
+Enterramos a los muertos (2026)
 https://hugh.cdn.rumble.cloud/video/fww1/f8/s8/2/4/u/K/u/4uKuA.aaa.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qu6EVeLYchxFSJkSmI9eK4KLEpG.jpg" group-title="TERROR", Boda sangrienta 2 (2026)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/qu6EVeLYchxFSJkSmI9eK4KLEpG.jpg" group-title="TERROR", Boda sangrienta 2 (2026)
 https://hugh.cdn.rumble.cloud/video/fww1/cb/s8/2/M/g/r/y/MgryA.aaa.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/5RhY8eHWzvjw32449pHdUkOeDCN.jpg" group-title="TERROR", La posesión de la momia (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/5RhY8eHWzvjw32449pHdUkOeDCN.jpg" group-
+
+title="TERROR", La posesión de la momia (2026)
 https://hugh.cdn.rumble.cloud/video/fwe2/b8/s8/2/E/W/z/x/EWzxA.aaa.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/x50pCSNnPeYnxHRZk00f2YcvGEB.jpg" group-title="TERROR", Scream 7 (2025)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/x50pCSNnPeYnxHRZk00f2YcvGEB.jpg" group-title="TERROR", Scream 7 (2025)
 https://1a-1791.com/video/fww1/f1/s8/2/A/h/X/b/AhXbA.aaa.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/dyW5mX4wwDoZWgTYObx6pg9V0i9.jpg" group-title="TERROR", El conjuro 4: últimos ritos (2025)
-https://1a-1791.com/video/fww1/64/s8/2/M/a/x/z/Maxzz.aaa.mp4
+https://1a-
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/bThFlzGyuIwA0ZL9Xe0bcCjGj62.jpg" group-title="TERROR", Se lo que hicieron el verano pasado (2025)
+1791.com/video/fww1/64/s8/2/M/a/x/z/Maxzz.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/bThFlzGyuIwA0ZL9Xe0bcCjGj62.jpg" group-title="TERROR", Se lo que hicieron el 
+
+verano pasado (2025)
 https://1a-1791.com/video/fww1/8b/s8/2/K/c/M/-/KcM-z.aaa.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/m68uoULpxeDkmCetbhftXCgP1TZ.jpg" group-title="TERROR", Compañera perfecta (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/m68uoULpxeDkmCetbhftXCgP1TZ.jpg" group-
+
+title="TERROR", Compañera perfecta (2025)
 https://archive.org/download/l-f-3n-73-d-3-14-jv-3n-7d-2025.1080/C0mp%40%C3%B13r4_P3rf3c7%40_2025.1080.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/lHChxm7sv3gWR2qz5PwjdxcXQf7.jpg" group-title="TERROR", Megan 2.0 (2025)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/lHChxm7sv3gWR2qz5PwjdxcXQf7.jpg" group-title="TERROR", Megan 2.0 (2025)
 https://1a-1791.com/video/fwe2/bd/s8/2/q/4/g/_/q4g_z.aaa.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/f0156SDAw1GfrdZnSbSwkOst9aO.jpg" group-title="TERROR", Destino final: lazos de sangre (2025)
-https://archive.org/download/d-3571n-0-f-1nl-lz-05-d-3-sngr-3.2025.1080/D3571n0_F1n%40l_L%40z05_d3_S%40ngr3.2025.1080.mp4
+https://archive.org/download/d-
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/t73n3bvfbQcoVjoDA013E6haVyK.jpg" group-title="TERROR", Ahí afuera (2024)
+3571n-0-f-1nl-lz-05-d-3-sngr-3.2025.1080/D3571n0_F1n%40l_L%40z05_d3_S%40ngr3.2025.1080.mp4
+
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/t73n3bvfbQcoVjoDA013E6haVyK.jpg" group-title="TERROR", Ahí afuera (2024)
 https://rumble.com/hls-vod/79gaew/playlist.m3u8?u=0&b=0
 
 
@@ -568,12 +800,16 @@ http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/442204.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/xmoO861IKm1ycJ52mLGc3nwINKV.jpg" group-title="ROMANCE",Ámame Ámame (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/xmoO861IKm1ycJ52mLGc3nwINKV.jpg" group-
+
+title="ROMANCE",Ámame Ámame (2026)
 https://hugh.cdn.rumble.cloud/video/fwe2/99/s8/2/K/A/K/Z/KAKZz.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/jr6Hr8MTCTZRf0BgUInSUOGGr9m.jpg" group-title="ROMANCE",Drama (2026)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/jr6Hr8MTCTZRf0BgUInSUOGGr9m.jpg" group-title="ROMANCE",Drama (2026)
 https://hugh.cdn.rumble.cloud/video/fwe2/e0/s8/2/K/T/u/y/KTuyA.aaa.mp4
 
 
@@ -582,44 +818,62 @@ https://hugh.cdn.rumble.cloud/video/fwe2/e0/s8/2/K/T/u/y/KTuyA.aaa.mp4
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/442197.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/iPJ4V6o5PttdBmHoehdOtWqQ6gx.jpg" group-title="ROMANCE",No te olvidaré (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/iPJ4V6o5PttdBmHoehdOtWqQ6gx.jpg" group-
+
+title="ROMANCE",No te olvidaré (2026)
 https://1a-1791.com/video/fwe2/a9/s8/2/M/Z/S/f/MZSfA.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/oscW8xV8EhRYj7iAhyVlBohKqxo.jpg" group-title="ROMANCE",¿Quieres ser mi novia? (2026)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/oscW8xV8EhRYj7iAhyVlBohKqxo.jpg" group-title="ROMANCE",¿Quieres ser mi novia? (2026)
 
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/429240.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/9T2tWICSOEg0XYgBY47LqN3AxkM.jpg" group-title="ROMANCE",Culpa nuestra (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/9T2tWICSOEg0XYgBY47LqN3AxkM.jpg" group-
+
+title="ROMANCE",Culpa nuestra (2026)
 
 https://1a-1791.com/video/fwe2/76/s8/2/A/H/E/T/AHETz.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/fF4DfnTyAkcC6VVYHEmNE7TifyJ.jpg" group-title="ROMANCE",Solo mío (2026)
-https://dl.dropbox.com/scl/fi/71yf53l7mu11r6svx686i/lengua.mp4?rlkey=wpn22c6x7tr7djnzkziffxraz&st=6wbsrssg&dl=1
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/fF4DfnTyAkcC6VVYHEmNE7TifyJ.jpg" group-title="ROMANCE",Solo mío (2026)
+https://dl.dropbox.com/scl/fi/71yf53l7mu11r6svx686i/lengua.mp4?
+
+rlkey=wpn22c6x7tr7djnzkziffxraz&st=6wbsrssg&dl=1
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qen7UyQLecqzlSkpWSEhpDi5tWk.jpg" group-title="ROMANCE",Dimelo bajito (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qen7UyQLecqzlSkpWSEhpDi5tWk.jpg" group-title="ROMANCE",Dimelo bajito 
+
+(2026)
 https://hugh.cdn.rumble.cloud/video/fwe2/cb/s8/2/4/i/U/H/4iUHz.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/bg1WLMsrXmHvRUZpWXBcj6u5mbQ.jpg" group-title="ROMANCE",Dos mundos un deseo (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/bg1WLMsrXmHvRUZpWXBcj6u5mbQ.jpg" group-
+
+title="ROMANCE",Dos mundos un deseo (2026)
 https://hugh.cdn.rumble.cloud/video/fwe2/2b/s8/2/g/n/Y/C/gnYCz.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/4UE5pQOuuANo17V3TjXBbHYvutj.jpg" group-title="ROMANCE",La meta es el amor (2026)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/4UE5pQOuuANo17V3TjXBbHYvutj.jpg" group-title="ROMANCE",La meta es el amor (2026)
 https://dl.dropbox.com/scl/fi/ycw3etue2lasheqn7wikx/lengua.mp4?rlkey=1zvwhwh0hc1s7qy6pxkvymxeg&st=lq5divkz&dl=1
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/wQninKReTdQUxWaLMMOEwwl2JcZ.jpg" group-title="ROMANCE",Mala influencia (2025)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/wQninKReTdQUxWaLMMOEwwl2JcZ.jpg" group-title="ROMANCE",Mala influencia (2025)
 
 https://1a-1791.com/video/fww1/83/s8/2/j/1/k/K/j1kKy.aaa.mp4
 
@@ -627,89 +881,125 @@ https://1a-1791.com/video/fww1/83/s8/2/j/1/k/K/j1kKy.aaa.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8gzmyWZX6C29aKNLr5ol17n03nN.jpg" group-title="ROMANCE",El mapa que me lleva a ti (2025)
 
-https://1a-1791.com/video/fwe2/0d/s8/2/E/H/Z/l/EHZlz.aaa.mp4
+https://1a-
+
+1791.com/video/fwe2/0d/s8/2/E/H/Z/l/EHZlz.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/6rFgrN5k4c1HrVoyr0zNDdH4bK5.jpg" group-title="ROMANCE",Almas marcadas (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/6rFgrN5k4c1HrVoyr0zNDdH4bK5.jpg" group-title="ROMANCE",Almas marcadas 
+
+(2025)
 
 https://1a-1791.com/video/fww1/8a/s8/2/Q/b/d/1/Qbd1y.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/e0S9UXyuHE1JAoHZmyqRJISpyoS.jpg" group-title="ROMANCE",Romper el círculo (2024
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/e0S9UXyuHE1JAoHZmyqRJISpyoS.jpg" group-
+
+title="ROMANCE",Romper el círculo (2024
 )
 https://archive.org/download/sxqg-rw-5kcy-b-3a-xro-ifvz-lj-iw-mj-q.-lat/SXQgRW5kcyB3aXRoIFVzLjIwMjQ%3D.LAT.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/7hf0NgicDumqzu1MxQxAAhVck0W.jpg" group-title="ROMANCE",Babygirl: deseo prohibido (2024)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/7hf0NgicDumqzu1MxQxAAhVck0W.jpg" group-title="ROMANCE",Babygirl: deseo prohibido (2024)
 https://pixeldrain.com/api/file/YkH5vyQg
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/g9bpA6feyQohvY7pyhU0h3tlba1.jpg" group-title="ROMANCE",Flotar (2024)
+#EXTINF:-1 
+
+tvg-logo="https://image.tmdb.org/t/p/w300/g9bpA6feyQohvY7pyhU0h3tlba1.jpg" group-title="ROMANCE",Flotar (2024)
 
 https://1a-1791.com/video/s8/2/2/d/y/R/2dyRr.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/82nJLe6waU4dfecC7YuLXr3SOBb.jpg" group-title="ROMANCE",La idea de ti (2024)
-https://dl.dropbox.com/scl/fi/02s1atn00xigb9kl06aep/La-Idea-de-Ti-2024-720p-DUAL-1.13-GB.mkv?
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/82nJLe6waU4dfecC7YuLXr3SOBb.jpg" group-title="ROMANCE",La idea de ti (2024)
+https://dl.dropbox.com/scl/fi/02s1atn00xigb9kl06aep/La-Idea-de-Ti-
+
+2024-720p-DUAL-1.13-GB.mkv?
 rlkey=bxf5934aegcba9fpnkddfzxei&dl=0
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/3ZNKu4TfGgACD1D3kibI5Pgmqe4.jpg" group-title="ROMANCE",A dos metros de ti (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/3ZNKu4TfGgACD1D3kibI5Pgmqe4.jpg" group-
+
+title="ROMANCE",A dos metros de ti (2019)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/231297.mkv
 
 
-#=========================================================  N A C I O N A L  ============================================================================
+#=========================================================  
+
+N A C I O N A L  ============================================================================
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/reAySL0tYNgI842A8hQlbFJf1Yc.jpg" group-title="NACIONAL", Playa de lobos (2026)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/reAySL0tYNgI842A8hQlbFJf1Yc.jpg" group-title="NACIONAL", Playa de lobos (2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/XXXXXX.mp4
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/yztcgz4OOw8PuiQKky6a1JLObnH.jpg" group-title="NACIONAL",Dibu Martinez (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/yztcgz4OOw8PuiQKky6a1JLObnH.jpg" group-
+
+title="NACIONAL",Dibu Martinez (2026)
 
 https://hugh.cdn.rumble.cloud/video/fwe2/c3/s8/2/k/i/f/u/kifuA.aaa.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/dkIzjzfv7TbXqjbJKM51CZYORaR.jpg" group-title="NACIONAL",La caja azul (2026)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/dkIzjzfv7TbXqjbJKM51CZYORaR.jpg" group-title="NACIONAL",La caja azul (2026)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/429242.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/moiLQPK2YjritOYG674DrWHvlgp.jpg" group-title="NACIONAL", Gatillero (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/moiLQPK2YjritOYG674DrWHvlgp.jpg" group-title="NACIONAL", 
+
+Gatillero (2026)
 https://dl.dropbox.com/scl/fi/ho95on1hjxd7peem15od2/sociales.mp4?rlkey=0ba2yhg4uqig6whgj79u3hcj3&st=rnohskyd&dl=0
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/gJFTLShjozMdgg3nSJCzzs9R5XU.jpg" group-title="NACIONAL",Cortafuego (2026)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/gJFTLShjozMdgg3nSJCzzs9R5XU.jpg" group-title="NACIONAL",Cortafuego (2026)
 
 https://1a-1791.com/video/fwe2/0c/s8/2/K/D/M/2/KDM2z.aaa.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/vMYmuhxadE7RmuB3sEKZU2yDKLW.jpg" group-title="NACIONAL",Homo argentum (2025)
 
-https://1a-1791.com/video/fwe2/6a/s8/2/Y/m/M/S/YmMSz.aaa.mp4
+https://1a-
+
+1791.com/video/fwe2/6a/s8/2/Y/m/M/S/YmMSz.aaa.mp4
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8cqHaqqDH8TLhn0SCTMts0M65UK.jpg" group-title="NACIONAL",El novio de mamá (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8cqHaqqDH8TLhn0SCTMts0M65UK.jpg" group-title="NACIONAL",El novio de 
+
+mamá (2025)
 https://dl.dropbox.com/scl/fi/vzf10noy5xiblpmddydbj/sociales-2.mp4?rlkey=lt81bgo0h9q7sypo04a7q5wvb&st=2jglzmqw&dl=0
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/tTa2nDCeHIPZXCOlpVdqLps1T3V.jpg"" group-title="NACIONAL",Una muerte silenciosa (2025)
+#EXTINF:-1 tvg-
 
-https://1a-1791.com/video/fwe2/4b/s8/2/E/R/d/s/ERdsy.aaa.mp4
+logo="https://image.tmdb.org/t/p/w300/tTa2nDCeHIPZXCOlpVdqLps1T3V.jpg"" group-title="NACIONAL",Una muerte silenciosa (2025)
+
+https://1a-
+
+1791.com/video/fwe2/4b/s8/2/E/R/d/s/ERdsy.aaa.mp4
 
 
 
@@ -718,13 +1008,17 @@ https://dl.dropbox.com/scl/fi/s4pn2wx1tzgdte10bws0k/1_4918103072816759961.mp4?rl
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8FN6tJLVgHbz9jEqTWNTWk4ZYpI.jpg" group-title="NACIONAL",LINDA (2024)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/8FN6tJLVgHbz9jEqTWNTWk4ZYpI.jpg" group-title="NACIONAL",LINDA (2024)
 
 https://1a-1791.com/video/s8/2/O/T/k/3/OTk3u.gaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/9eFK212L2nZCTjE5r1wKLxgA14d.jpg" group-title="NACIONAL",Casi muerta (2024)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/9eFK212L2nZCTjE5r1wKLxgA14d.jpg" group-title="NACIONAL",Casi muerta (2024)
 
 https://1a-1791.com/video/fw/s8/2/1/4/t/m/14tmv.gaa.mp4
 
@@ -741,13 +1035,17 @@ http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/437079.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/cFMqLI43ybVFyarJTnfV9YO9KUC.jpg" group-title="INFANTIL",Intercambiados (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/cFMqLI43ybVFyarJTnfV9YO9KUC.jpg" group-
+
+title="INFANTIL",Intercambiados (2026)
 
 https://1a-1791.com/video/fww1/a4/s8/2/e/N/-/j/eN-jA.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/7NRpCaksHX0FEsXCNITOvhq7cZ3.jpg" group-title="INFANTIL",Operación castor (2026)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/7NRpCaksHX0FEsXCNITOvhq7cZ3.jpg" group-title="INFANTIL",Operación castor (2026)
 
 https://1a-1791.com/video/fww1/d7/s8/2/U/-/z/j/U-zjA.aaa.mp4
 
@@ -755,31 +1053,41 @@ https://1a-1791.com/video/fww1/d7/s8/2/U/-/z/j/U-zjA.aaa.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/klpYT9Y70XFlIrEM9zyWTrBPu4D.jpg" group-title="INFANTIL",La cabra (2026)
 
-https://1a-1791.com/video/fww1/41/s8/2/E/f/l/_/Efl_z.aaa.mp4
+https://1a-
+
+1791.com/video/fww1/41/s8/2/E/f/l/_/Efl_z.aaa.mp4
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QFUj9D8.jpeg" group-title="INFANTIL",Zootopia 2 (2026)
 
-https://1a-1791.com/video/fww1/4a/s8/2/G/S/B/4/GSB4z.aaa.mp4
+https://1a-
+
+1791.com/video/fww1/4a/s8/2/G/S/B/4/GSB4z.aaa.mp4
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jfwui5R.jpeg" group-title="INFANTIL",Los tipos malos 2 (2025)
 
-https://1a-1791.com/video/fww1/94/s8/2/g/M/h/e/gMhez.aaa.mp4
+https://1a-
+
+1791.com/video/fww1/94/s8/2/g/M/h/e/gMhez.aaa.mp4
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f8U0TQU.jpeg" group-title="INFANTIL",Pitufos (2025)
 
-https://1a-1791.com/video/fww1/80/s8/2/s/J/I/_/sJI_y.aaa.mp4
+https://1a-
+
+1791.com/video/fww1/80/s8/2/s/J/I/_/sJI_y.aaa.mp4
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tgG0TDk.jpeg" group-title="INFANTIL",Lilo & Stitch (2025)
 
-https://1a-1791.com/video/fww1/52/s8/2/o/q/q/4/oqq4y.aaa.mp4
+https://1a-
+
+1791.com/video/fww1/52/s8/2/o/q/q/4/oqq4y.aaa.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DhfU9sB.jpeg" group-title="INFANTIL",Mi villano favorito 4 (2025)
@@ -790,99 +1098,141 @@ https://hugh.cdn.rumble.cloud/video/s8/2/s/m/t/b/smtbt.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/dJZRImFs3jdMV1I2OzgjGz1rZv9.jpg" group-title="INFANTIL",Mascotas al rescate (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/dJZRImFs3jdMV1I2OzgjGz1rZv9.jpg" group-title="INFANTIL",Mascotas al 
+
+rescate (2024)
 https://dl.dropbox.com/scl/fi/7eqt8rmxht4aaoj63sgaq/fisica.mp4?rlkey=bnk7nxkhjd5memjyo2p0m6m3p&st=nspkj3dr&dl=0
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/w2ARwtc1zoh0pyfwmyhpZHwuXgK.jpg" group-title="INFANTIL",Elio (2024)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/w2ARwtc1zoh0pyfwmyhpZHwuXgK.jpg" group-title="INFANTIL",Elio (2024)
 
 https://1a-1791.com/video/fwe2/c4/s8/2/e/i/1/_/ei1_z.aaa.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0KwSmrE.jpeg" group-title="INFANTIL",Sonic 3: La película (2024)
+#EXTINF:-1 tvg-
+
+logo="https://i.imgur.com/0KwSmrE.jpeg" group-title="INFANTIL",Sonic 3: La película (2024)
 
 https://1a-1791.com/video/fwe2/94/s8/2/g/i/4/b/gi4bx.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/np3Sezw.jpeg" group-title="INFANTIL",Mufasa: El rey león (2024)
+#EXTINF:-1 tvg-
+
+logo="https://i.imgur.com/np3Sezw.jpeg" group-title="INFANTIL",Mufasa: El rey león (2024)
 
 https://1a-1791.com/video/fwe2/cf/s8/2/U/n/P/o/UnPoy.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/95Ukerw.jpeg" group-title="INFANTIL",Moana 2 (2024)
+#EXTINF:-1 tvg-
+
+logo="https://i.imgur.com/95Ukerw.jpeg" group-title="INFANTIL",Moana 2 (2024)
 
 https://1a-1791.com/video/fwe2/a6/s8/2/L/k/v/T/LkvTx.aaa.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/m0SbwFNCa9epW1X60deLqTHiP7x.jpg" group-title="INFANTIL",Moana (2016)
+#EXTINF:-1 tvg-
 
-https://cloud-s84178-118-164.spcdn.cc/hls/h75a5342dle2alhulpbd4p4xj3u45c4atg5iem4jkfppbptkgzybjltkremq/master.m3u8
+logo="https://image.tmdb.org/t/p/w300/m0SbwFNCa9epW1X60deLqTHiP7x.jpg" group-title="INFANTIL",Moana (2016)
+
+https://cloud-s84178-118-
+
+164.spcdn.cc/hls/h75a5342dle2alhulpbd4p4xj3u45c4atg5iem4jkfppbptkgzybjltkremq/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LjTdntK.jpeg" group-title="INFANTIL",Intensamente 2 (2024)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LjTdntK.jpeg" group-title="INFANTIL",Intensamente 2 
+
+(2024)
 
 https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/INMT2.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/En61gXJ.png" group-title="INFANTIL",Amigos imaginarios (2024)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/En61gXJ.png" group-title="INFANTIL",Amigos imaginarios 
+
+(2024)
 
 https://dl.dropbox.com/scl/fi/u04myu19d2bwuvc19wlxu/PS3MOVIE-..mp4?rlkey=pqp4k0a9mgr3jffcx8ti3k5tf&dl=0
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/b5Jb7GoQaqIXy4VEdnQa0UrQZI.jpg" group-title="INFANTIL",El gato con botas: el último deseo (2022)
+#EXTINF:-1 tvg-
 
-https://archive.org/download/el-gato-con-botas-el-ultimo-deseo-720p-dual-1.03-gb_202301/El%20Gato%20Con%20Botas%20El
+logo="https://image.tmdb.org/t/p/w300/b5Jb7GoQaqIXy4VEdnQa0UrQZI.jpg" group-title="INFANTIL",El gato con botas: el último deseo (2022)
+
+https://archive.org/download/el-gato-con-botas-el-
+
+ultimo-deseo-720p-dual-1.03-gb_202301/El%20Gato%20Con%20Botas%20El
 %20%C3%9Altimo%20Deseo%20720p%20DUAL
 
 %201.03%20GB.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/etFtbFa2bvqLr7FecfYZ8cKi4a2.jpg" group-title="INFANTIL",Valiente (2012)
+#EXTINF:-1 tvg-
 
-https://cloud-s84178-118-164.spcdn.cc/hls/h75a4m4ndle2alhulpbt44wxbvezpvfz32r5v5csaz5o2kyukzcichogzrca/master.m3u8
+logo="https://image.tmdb.org/t/p/w300/etFtbFa2bvqLr7FecfYZ8cKi4a2.jpg" group-title="INFANTIL",Valiente (2012)
+
+https://cloud-s84178-118-
+
+164.spcdn.cc/hls/h75a4m4ndle2alhulpbt44wxbvezpvfz32r5v5csaz5o2kyukzcichogzrca/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/hjS9mH8KvRiGHgjk6VUZH7OT0Ng.jpg" group-title="INFANTIL",Cruella (2021)
+#EXTINF:-1 tvg-
+
+logo="https://image.tmdb.org/t/p/w300/hjS9mH8KvRiGHgjk6VUZH7OT0Ng.jpg" group-title="INFANTIL",Cruella (2021)
 https://archive.org/download/tinaco_20210528/Crue11a.mkv
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/bDvfxhyuNZDIqj2c4B1XUE3oHAC.jpg" group-title="INFANTIL",Jefe en pañales 2 (2021)
+#EXTINF:-1 
+
+tvg-logo="https://image.tmdb.org/t/p/w300/bDvfxhyuNZDIqj2c4B1XUE3oHAC.jpg" group-title="INFANTIL",Jefe en pañales 2 (2021)
 https://archive.org/download/manguera_20210707/Th3.B055.B4by2.mkv
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/cl5GCE7kS5LETpa0B1YPym4mIG2.jpg" group-title="INFANTIL",Jefe en pañales (2017)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/cl5GCE7kS5LETpa0B1YPym4mIG2.jpg" group-
+
+title="INFANTIL",Jefe en pañales (2017)
 https://ia601503.us.archive.org/26/items/9c6f1/9c6f1.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/yIkmA2y50NYJkAYT9nZ5pcle9tP.jpg" group-title="INFANTIL",Angel birds 2 (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/yIkmA2y50NYJkAYT9nZ5pcle9tP.jpg" 
+
+group-title="INFANTIL",Angel birds 2 (2019)
 
 https://ia601608.us.archive.org/15/items/ang-bir-2-la-pel-cula-dvdrip-1329228/AngBir_2__La_pel_cula_DVDRip__1329228.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/cY7nyBe2HHvWHmpafq8hjnrQp4j.jpg" group-title="INFANTIL",Angry birds (2016)
+#EXTINF:-1 tvg-
 
-https://ia601609.us.archive.org/24/items/angr-bir-la-pel-cula-dvdrip-1307856/AngrBir___la_pel_cula_DVDRip__1307856.mp4
+logo="https://image.tmdb.org/t/p/w300/cY7nyBe2HHvWHmpafq8hjnrQp4j.jpg" group-title="INFANTIL",Angry birds (2016)
+
+https://ia601609.us.archive.org/24/items/angr-bir-la-pel-cula-dvdrip-
+
+1307856/AngrBir___la_pel_cula_DVDRip__1307856.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/s6auPXBYxNP9EnYNBELxHhHXL1V.jpg" group-title="INFANTIL",Coco (2017)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/s6auPXBYxNP9EnYNBELxHhHXL1V.jpg" group-title="INFANTIL",Coco 
+
+(2017)
 http://miotv.cc:8080/movie/RESTREAMCRUEL/T7464747/201174.mkv
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/uvdIeQutrcTwcbSRCn1ubg7rqxx.jpg" group-title="INFANTIL",Home (2015)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/uvdIeQutrcTwcbSRCn1ubg7rqxx.jpg" group-
+
+title="INFANTIL",Home (2015)
 
 https://ia601604.us.archive.org/2/items/casahogar-dvdrip-968263/Casahogar_DVDRip__968263.mp4
 
@@ -890,53 +1240,71 @@ https://ia601604.us.archive.org/2/items/casahogar-dvdrip-968263/Casahogar_DVDRip
 #========================================================= SERIE - EN EL BARRO =============================================================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="EN EL barro - S02E01"  tvg-logo="https://image.tmdb.org/t/p/w300/3VdLRXg5LJVH6zETMReeJltWIaI.jpg" group-title="SERIES", En el barro - S02E01
+#EXTINF:-1 
+
+tvg-id="" tvg-name="EN EL barro - S02E01"  tvg-logo="https://image.tmdb.org/t/p/w300/3VdLRXg5LJVH6zETMReeJltWIaI.jpg" group-title="SERIES", En el barro - S02E01
 http://series.tuxchannel.mx/series/en_el_barro/s_02_e_01.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="EN EL barro - S02E02"  tvg-logo="https://image.tmdb.org/t/p/w300/3VdLRXg5LJVH6zETMReeJltWIaI.jpg" group-title="SERIES", En el barro - S02E02
+#EXTINF:-1 tvg-id="" tvg-name="EN EL barro - S02E02"  tvg-
+
+logo="https://image.tmdb.org/t/p/w300/3VdLRXg5LJVH6zETMReeJltWIaI.jpg" group-title="SERIES", En el barro - S02E02
 http://series.tuxchannel.mx/series/en_el_barro/s_02_e_02.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="EN EL barro - S02E03"  tvg-logo="https://image.tmdb.org/t/p/w300/3VdLRXg5LJVH6zETMReeJltWIaI.jpg" group-title="SERIES", En el barro - S02E03
 http://series.tuxchannel.mx/series/en_el_barro/s_02_e_03.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="EN EL barro - S02E04"  tvg-logo="https://image.tmdb.org/t/p/w300/3VdLRXg5LJVH6zETMReeJltWIaI.jpg" group-title="SERIES", En el barro - S02E04
+#EXTINF:-1 tvg-id="" tvg-name="EN EL barro - S02E04"  tvg-
+
+logo="https://image.tmdb.org/t/p/w300/3VdLRXg5LJVH6zETMReeJltWIaI.jpg" group-title="SERIES", En el barro - S02E04
 http://series.tuxchannel.mx/series/en_el_barro/s_02_e_04.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="EN EL barro - S02E05"  tvg-logo="https://image.tmdb.org/t/p/w300/3VdLRXg5LJVH6zETMReeJltWIaI.jpg" group-title="SERIES", En el barro - S02E05
 http://series.tuxchannel.mx/series/en_el_barro/s_02_e_05.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="EN EL barro - S02E06"  tvg-logo="https://image.tmdb.org/t/p/w300/3VdLRXg5LJVH6zETMReeJltWIaI.jpg" group-title="SERIES", En el barro - S02E06
+#EXTINF:-1 tvg-id="" tvg-name="EN EL barro - S02E06"  tvg-
+
+logo="https://image.tmdb.org/t/p/w300/3VdLRXg5LJVH6zETMReeJltWIaI.jpg" group-title="SERIES", En el barro - S02E06
 http://series.tuxchannel.mx/series/en_el_barro/s_02_e_06.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="EN EL barro - S02E07"  tvg-logo="https://image.tmdb.org/t/p/w300/3VdLRXg5LJVH6zETMReeJltWIaI.jpg" group-title="SERIES", En el barro - S02E07
 http://series.tuxchannel.mx/series/en_el_barro/s_02_e_07.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="EN EL barro - S02E08"  tvg-logo="https://image.tmdb.org/t/p/w300/3VdLRXg5LJVH6zETMReeJltWIaI.jpg" group-title="SERIES", En el barro - S02E08
+#EXTINF:-1 tvg-id="" tvg-name="EN EL barro - S02E08"  tvg-
+
+logo="https://image.tmdb.org/t/p/w300/3VdLRXg5LJVH6zETMReeJltWIaI.jpg" group-title="SERIES", En el barro - S02E08
 http://series.tuxchannel.mx/series/en_el_barro/s_02_e_08.mkv
 
 
 #EXTINF:-1 tvg-id="" tvg-name="EN EL barro - S01E01"  tvg-logo="https://image.tmdb.org/t/p/w300/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg" group-title="SERIES", En el barro - S01E01
 http://series.tuxchannel.mx/series/en_el_barro/s_01_e_01.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="EN EL barro - S01E02"  tvg-logo="https://image.tmdb.org/t/p/w300/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg" group-title="SERIES", En el barro - S01E02
+#EXTINF:-1 tvg-id="" tvg-name="EN EL barro - S01E02"  tvg-
+
+logo="https://image.tmdb.org/t/p/w300/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg" group-title="SERIES", En el barro - S01E02
 http://series.tuxchannel.mx/series/en_el_barro/s_01_e_02.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="EN EL barro - S01E03"  tvg-logo="https://image.tmdb.org/t/p/w300/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg" group-title="SERIES", En el barro - S01E03
 http://series.tuxchannel.mx/series/en_el_barro/s_01_e_03.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="EN EL barro - S01E04"  tvg-logo="https://image.tmdb.org/t/p/w300/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg" group-title="SERIES", En el barro - S01E04
+#EXTINF:-1 tvg-id="" tvg-name="EN EL barro - S01E04"  tvg-
+
+logo="https://image.tmdb.org/t/p/w300/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg" group-title="SERIES", En el barro - S01E04
 http://series.tuxchannel.mx/series/en_el_barro/s_01_e_04.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="EN EL barro - S01E05"  tvg-logo="https://image.tmdb.org/t/p/w300/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg" group-title="SERIES", En el barro - S01E05
 http://series.tuxchannel.mx/series/en_el_barro/s_01_e_05.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="EN EL barro - S01E06"  tvg-logo="https://image.tmdb.org/t/p/w300/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg" group-title="SERIES", En el barro - S01E06
+#EXTINF:-1 tvg-id="" tvg-name="EN EL barro - S01E06"  tvg-
+
+logo="https://image.tmdb.org/t/p/w300/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg" group-title="SERIES", En el barro - S01E06
 http://series.tuxchannel.mx/series/en_el_barro/s_01_e_06.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="EN EL barro - S01E07"  tvg-logo="https://image.tmdb.org/t/p/w300/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg" group-title="SERIES", En el barro - S01E07
 http://series.tuxchannel.mx/series/en_el_barro/s_01_e_07.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="EN EL barro - S01E08"  tvg-logo="https://image.tmdb.org/t/p/w300/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg" group-title="SERIES", En el barro - S01E08
+#EXTINF:-1 tvg-id="" tvg-name="EN EL barro - S01E08"  tvg-
+
+logo="https://image.tmdb.org/t/p/w300/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg" group-title="SERIES", En el barro - S01E08
 http://series.tuxchannel.mx/series/en_el_barro/s_01_e_08.mkv
 
 
@@ -948,7 +1316,9 @@ http://series.tuxchannel.mx/series/the_eternaut/s_01_e_01.mkv
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="El eternauta - S01E02"  tvg-logo="https://image.tmdb.org/t/p/w300/9Krv5NvKa5a3Q3b1l2B3rP9Bj8E.jpg" group-title="SERIES", El eternauta - S01E02
+#EXTINF:-1 tvg-id="" tvg-name="El eternauta - S01E02"  tvg-
+
+logo="https://image.tmdb.org/t/p/w300/9Krv5NvKa5a3Q3b1l2B3rP9Bj8E.jpg" group-title="SERIES", El eternauta - S01E02
 http://series.tuxchannel.mx/series/the_eternaut/s_01_e_02.mkv
 
 
@@ -958,7 +1328,9 @@ http://series.tuxchannel.mx/series/the_eternaut/s_01_e_03.mkv
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="El eternauta - S01E04"  tvg-logo="https://image.tmdb.org/t/p/w300/9Krv5NvKa5a3Q3b1l2B3rP9Bj8E.jpg" group-title="SERIES", El eternauta - S01E04
+#EXTINF:-1 tvg-id="" tvg-name="El eternauta - S01E04"  tvg-
+
+logo="https://image.tmdb.org/t/p/w300/9Krv5NvKa5a3Q3b1l2B3rP9Bj8E.jpg" group-title="SERIES", El eternauta - S01E04
 http://series.tuxchannel.mx/series/the_eternaut/s_01_e_04.mkv
 
 
@@ -968,7 +1340,9 @@ http://series.tuxchannel.mx/series/the_eternaut/s_01_e_05.mkv
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="El eternauta - S01E06"  tvg-logo="https://image.tmdb.org/t/p/w300/9Krv5NvKa5a3Q3b1l2B3rP9Bj8E.jpg" group-title="SERIES", El eternauta - S01E06
+#EXTINF:-1 tvg-id="" tvg-name="El eternauta - S01E06"  tvg-
+
+logo="https://image.tmdb.org/t/p/w300/9Krv5NvKa5a3Q3b1l2B3rP9Bj8E.jpg" group-title="SERIES", El eternauta - S01E06
 http://series.tuxchannel.mx/series/the_eternaut/s_01_e_06.mkv
 
 
@@ -980,68 +1354,102 @@ https://archive.org/download/matematica-3/matematica%20%281%29.mp4
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Viudas negras - S01E02"  tvg-logo="https://image.tmdb.org/t/p/w300/oRoBbzAUqV9ozdogQNvOpwj7M2y.jpg" group-title="SERIES", Viudas negras - S01E02
-https://archive.org/download/matematica-3/matematica%20%282%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viudas negras - S01E02"  tvg-
+
+logo="https://image.tmdb.org/t/p/w300/oRoBbzAUqV9ozdogQNvOpwj7M2y.jpg" group-title="SERIES", Viudas negras - S01E02
+https://archive.org/download/matematica-3/matematica
+
+%20%282%29.mp4
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Viudas negras - S01E03"  tvg-logo="https://image.tmdb.org/t/p/w300/oRoBbzAUqV9ozdogQNvOpwj7M2y.jpg" group-title="SERIES", Viudas negras - S01E03
+#EXTINF:-1 tvg-id="" tvg-name="Viudas negras - S01E03"  tvg-logo="https://image.tmdb.org/t/p/w300/oRoBbzAUqV9ozdogQNvOpwj7M2y.jpg" group-title="SERIES", 
+
+Viudas negras - S01E03
 https://archive.org/download/matematica-3/matematica%20%283%29.mp4
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Viudas negras - S01E04"  tvg-logo="https://image.tmdb.org/t/p/w300/oRoBbzAUqV9ozdogQNvOpwj7M2y.jpg" group-title="SERIES", Viudas negras - S01E04
-https://archive.org/download/matematica-3/matematica%20%284%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viudas negras - S01E04"  tvg-
+
+logo="https://image.tmdb.org/t/p/w300/oRoBbzAUqV9ozdogQNvOpwj7M2y.jpg" group-title="SERIES", Viudas negras - S01E04
+https://archive.org/download/matematica-3/matematica
+
+%20%284%29.mp4
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Viudas negras - S01E05"  tvg-logo="https://image.tmdb.org/t/p/w300/oRoBbzAUqV9ozdogQNvOpwj7M2y.jpg" group-title="SERIES", Viudas negras - S01E05
+#EXTINF:-1 tvg-id="" tvg-name="Viudas negras - S01E05"  tvg-logo="https://image.tmdb.org/t/p/w300/oRoBbzAUqV9ozdogQNvOpwj7M2y.jpg" group-title="SERIES", 
+
+Viudas negras - S01E05
 https://archive.org/download/matematica-3/matematica%20%285%29.mp4
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Viudas negras - S01E06"  tvg-logo="https://image.tmdb.org/t/p/w300/oRoBbzAUqV9ozdogQNvOpwj7M2y.jpg" group-title="SERIES", Viudas negras - S01E06
-https://archive.org/download/matematica-3/matematica%20%286%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viudas negras - S01E06"  tvg-
+
+logo="https://image.tmdb.org/t/p/w300/oRoBbzAUqV9ozdogQNvOpwj7M2y.jpg" group-title="SERIES", Viudas negras - S01E06
+https://archive.org/download/matematica-3/matematica
+
+%20%286%29.mp4
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Viudas negras - S01E07"  tvg-logo="https://image.tmdb.org/t/p/w300/oRoBbzAUqV9ozdogQNvOpwj7M2y.jpg" group-title="SERIES", Viudas negras - S01E07
+#EXTINF:-1 tvg-id="" tvg-name="Viudas negras - S01E07"  tvg-logo="https://image.tmdb.org/t/p/w300/oRoBbzAUqV9ozdogQNvOpwj7M2y.jpg" group-title="SERIES", 
+
+Viudas negras - S01E07
 https://archive.org/download/matematica-3/matematica%20%287%29.mp4
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Viudas negras - S01E08"  tvg-logo="https://image.tmdb.org/t/p/w300/oRoBbzAUqV9ozdogQNvOpwj7M2y.jpg" group-title="SERIES", Viudas negras - S01E08
-https://archive.org/download/matematica-3/matematica%20%288%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viudas negras - S01E08"  tvg-
+
+logo="https://image.tmdb.org/t/p/w300/oRoBbzAUqV9ozdogQNvOpwj7M2y.jpg" group-title="SERIES", Viudas negras - S01E08
+https://archive.org/download/matematica-3/matematica
+
+%20%288%29.mp4
 
 
-#=======================================================  S E R I E - E L  V I S I T A N T E  =============================================================
+#=======================================================  S E R I E - E L  V I S I T A N T E  
+
+=============================================================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="El visitante - S01E01"  tvg-logo="https://image.tmdb.org/t/p/w300/foegemcN2ZS7dQI30NIfWpRl2Ls.jpg" group-title="SERIES", El visitante - S01E01
+#EXTINF:-1 tvg-id="" tvg-name="El visitante - S01E01"  tvg-
+
+logo="https://image.tmdb.org/t/p/w300/foegemcN2ZS7dQI30NIfWpRl2Ls.jpg" group-title="SERIES", El visitante - S01E01
 http://series.tuxchannel.mx/series/the_outsider/s_01_e_01.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="El visitante - S01E02"  tvg-logo="https://image.tmdb.org/t/p/w300/foegemcN2ZS7dQI30NIfWpRl2Ls.jpg" group-title="SERIES", El visitante - S01E02
 http://series.tuxchannel.mx/series/the_outsider/s_01_e_02.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="El visitante - S01E03"  tvg-logo="https://image.tmdb.org/t/p/w300/foegemcN2ZS7dQI30NIfWpRl2Ls.jpg" group-title="SERIES", El visitante - S01E03
+#EXTINF:-1 tvg-id="" tvg-name="El visitante - S01E03"  tvg-
+
+logo="https://image.tmdb.org/t/p/w300/foegemcN2ZS7dQI30NIfWpRl2Ls.jpg" group-title="SERIES", El visitante - S01E03
 http://series.tuxchannel.mx/series/the_outsider/s_01_e_03.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="El visitante - S01E04"  tvg-logo="https://image.tmdb.org/t/p/w300/foegemcN2ZS7dQI30NIfWpRl2Ls.jpg" group-title="SERIES", El visitante - S01E04
 http://series.tuxchannel.mx/series/the_outsider/s_01_e_04.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="El visitante - S01E05"  tvg-logo="https://image.tmdb.org/t/p/w300/foegemcN2ZS7dQI30NIfWpRl2Ls.jpg" group-title="SERIES", El visitante - S01E05
+#EXTINF:-1 tvg-id="" tvg-name="El visitante - S01E05"  tvg-
+
+logo="https://image.tmdb.org/t/p/w300/foegemcN2ZS7dQI30NIfWpRl2Ls.jpg" group-title="SERIES", El visitante - S01E05
 http://series.tuxchannel.mx/series/the_outsider/s_01_e_05.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="El visitante - S01E06"  tvg-logo="https://image.tmdb.org/t/p/w300/foegemcN2ZS7dQI30NIfWpRl2Ls.jpg" group-title="SERIES", El visitante - S01E06
 http://series.tuxchannel.mx/series/the_outsider/s_01_e_06.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="El visitante - S01E07"  tvg-logo="https://image.tmdb.org/t/p/w300/foegemcN2ZS7dQI30NIfWpRl2Ls.jpg" group-title="SERIES", El visitante - S01E07
+#EXTINF:-1 tvg-id="" tvg-name="El visitante - S01E07"  tvg-
+
+logo="https://image.tmdb.org/t/p/w300/foegemcN2ZS7dQI30NIfWpRl2Ls.jpg" group-title="SERIES", El visitante - S01E07
 http://series.tuxchannel.mx/series/the_outsider/s_01_e_07.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="El visitante - S01E08"  tvg-logo="https://image.tmdb.org/t/p/w300/foegemcN2ZS7dQI30NIfWpRl2Ls.jpg" group-title="SERIES", El visitante - S01E08
 http://series.tuxchannel.mx/series/the_outsider/s_01_e_08.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="El visitante - S01E09"  tvg-logo="https://image.tmdb.org/t/p/w300/foegemcN2ZS7dQI30NIfWpRl2Ls.jpg" group-title="SERIES", El visitante - S01E09
+#EXTINF:-1 tvg-id="" tvg-name="El visitante - S01E09"  tvg-
+
+logo="https://image.tmdb.org/t/p/w300/foegemcN2ZS7dQI30NIfWpRl2Ls.jpg" group-title="SERIES", El visitante - S01E09
 http://series.tuxchannel.mx/series/the_outsider/s_01_e_09.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="El visitante - S01E10"  tvg-logo="https://image.tmdb.org/t/p/w300/foegemcN2ZS7dQI30NIfWpRl2Ls.jpg" group-title="SERIES", El visitante - S01E10
